@@ -8,7 +8,7 @@ import random
 # Function to get the HTML content of a page
 def get_page_content(url):
     headers = {
-        'User-Agent': 'your_user_agent',
+        'User-Agent': '',
         'Accept-Language': 'en-US,en;q=0.5',
         'Referer': 'https://www.google.com/',
     }
@@ -79,7 +79,7 @@ def parse_job_data(soup):
 # Function to scrape job listings from a given URL
 def scrape_karriere_jobs(query, location, num_pages=1):
     all_jobs = []
-    base_url = f'https://www.karriere.at/jobs/{query}/wien'
+    base_url = f'https://www.karriere.at/jobs/{query}/{location}'
 
     for page in range(1, num_pages + 1):
         url = f"{base_url}?page={page}"
@@ -101,8 +101,9 @@ def scrape_karriere_jobs(query, location, num_pages=1):
 def main():
     query = 'data-engineer'  # Replace with your desired job title (URL-friendly)
     num_pages = 2  # Number of pages to scrape
+    location = 'wien'
 
-    job_data = scrape_karriere_jobs(query, num_pages)
+    job_data = scrape_karriere_jobs(query, location, num_pages)
 
     if job_data:
         # Save to CSV
