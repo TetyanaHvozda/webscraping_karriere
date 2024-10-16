@@ -1,37 +1,1048 @@
-title,company,locations,type,home_office,salary,url
-IT Projektmanager - Software Development (m/w/d),ANEXIA Internetdienstleistungs GmbH,"['Wien', 'Graz', 'Österreich']",Vollzeit,Homeoffice,ab 60.800 € jährlich,https://www.karriere.at/jobs/7102333
-Test Automation Engineer – Tosca Expert (m/w/d),Qnit Austria GmbH,"['Wien', 'Graz', 'Linz', 'Salzburg']",Vollzeit,,3.500 € – 4.000 € monatlich,https://www.karriere.at/jobs/7055317
-Full Stack Software Engineer (all genders),PRODYNA SE,['Wien'],Vollzeit,,3.000 € – 3.500 € monatlich,https://www.karriere.at/jobs/7055326
-Junior SAP Software Entwickler (m/w/d) - Junior SAP Consultant,Ratbacher GmbH,['Wien'],Vollzeit,,ab 45.000 € jährlich,https://www.karriere.at/jobs/7327360
-Software-Entwickler:in,"FCP Fritsch, Chiari & Partner ZT GmbH",['Wien'],Vollzeit,,,https://www.karriere.at/jobs/7314280
-Software Entwickler (m/w/d) für Eisenbahnsysteme,Siemens Mobility Austria GmbH,['Wien'],Vollzeit,,ab 51.315 € jährlich,https://www.karriere.at/jobs/7309174
-C# Software Entwickler*in für Schnittstellen und Datenbanken (w/m/d),UPPER Solutions GmbH,['Wien'],Vollzeit,Homeoffice,45.000 € – 70.000 € jährlich,https://www.karriere.at/jobs/7256269
-Leiter:in Software-Entwicklung (all genders),PMC International GmbH,['Wien'],"Vollzeit, Teilzeit",Homeoffice,ab 4.700 € monatlich,https://www.karriere.at/jobs/7283842
-Software-Entwickler (m/w/d),ANDRITZ,['Wien'],Vollzeit,Homeoffice,"ab 3.251,09 € monatlich",https://www.karriere.at/jobs/7216141
-Software Entwickler C++ (m/w/d),P&I Personal & Informatik GmbH,['Wien'],Vollzeit,Homeoffice,ab 58.000 € jährlich,https://www.karriere.at/jobs/7281994
-Senior Software Entwickler:in (.NET),HDI Versicherung AG,['Wien'],Vollzeit,Homeoffice,"ab 3.436,86 € monatlich",https://www.karriere.at/jobs/7232902
-Software Entwickler (m/w/d) Robotik,Computer Futures,['Wien'],Vollzeit,Homeoffice,ab 60.000 € jährlich,https://www.karriere.at/jobs/7319110
-Senior Software Entwickler:in C# / .NET (m/w/d),Dorotheum,['Wien Innenstadt'],Vollzeit,Homeoffice,ab 49.000 € jährlich,https://www.karriere.at/jobs/7293523
-Software-Entwickler (m/w/d),VACE Engineering GmbH,['Wien'],Vollzeit,Homeoffice,48.000 € – 67.000 € jährlich,https://www.karriere.at/jobs/7278910
-Praktikant Software Entwicklung (m/w/d) - befristet für 2 Jahre,Rheinmetall MAN Military Vehicles Österreich GesmbH,['Wien'],,,"ab 2.784,29 € monatlich",https://www.karriere.at/jobs/7302262
-Senior Software Entwickler*in C# oder Angular (w/m/d),MIA Systems GmbH,[],"Vollzeit, Teilzeit",Homeoffice,ab 4.000 € monatlich,https://www.karriere.at/jobs/7298971
-Softwareentwickler Python (m/w/d) - AI Software Engineer,Ratbacher GmbH,['Wien'],Vollzeit,Homeoffice,,https://www.karriere.at/jobs/7329784
-Software Engineer - Testsysteme (m/w/d),IVM Technical Consultants,[],Vollzeit,,ab 4.500 € monatlich,https://www.karriere.at/jobs/7304707
-IT Projektmanager - Software Development (m/w/d),ANEXIA Internetdienstleistungs GmbH,"['Wien', 'Graz', 'Österreich']",Vollzeit,Homeoffice,ab 60.800 € jährlich,https://www.karriere.at/jobs/7102333
-Test Automation Engineer – Tosca Expert (m/w/d),Qnit Austria GmbH,"['Wien', 'Graz', 'Linz', 'Salzburg']",Vollzeit,,3.500 € – 4.000 € monatlich,https://www.karriere.at/jobs/7055317
-Full Stack Software Engineer (all genders),PRODYNA SE,['Wien'],Vollzeit,,3.000 € – 3.500 € monatlich,https://www.karriere.at/jobs/7055326
-Junior SAP Software Entwickler (m/w/d) - Junior SAP Consultant,Ratbacher GmbH,['Wien'],Vollzeit,,ab 45.000 € jährlich,https://www.karriere.at/jobs/7327360
-Software-Entwickler:in,"FCP Fritsch, Chiari & Partner ZT GmbH",['Wien'],Vollzeit,,,https://www.karriere.at/jobs/7314280
-Software Entwickler (m/w/d) für Eisenbahnsysteme,Siemens Mobility Austria GmbH,['Wien'],Vollzeit,,ab 51.315 € jährlich,https://www.karriere.at/jobs/7309174
-C# Software Entwickler*in für Schnittstellen und Datenbanken (w/m/d),UPPER Solutions GmbH,['Wien'],Vollzeit,Homeoffice,45.000 € – 70.000 € jährlich,https://www.karriere.at/jobs/7256269
-Leiter:in Software-Entwicklung (all genders),PMC International GmbH,['Wien'],"Vollzeit, Teilzeit",Homeoffice,ab 4.700 € monatlich,https://www.karriere.at/jobs/7283842
-Software-Entwickler (m/w/d),ANDRITZ,['Wien'],Vollzeit,Homeoffice,"ab 3.251,09 € monatlich",https://www.karriere.at/jobs/7216141
-Software Entwickler C++ (m/w/d),P&I Personal & Informatik GmbH,['Wien'],Vollzeit,Homeoffice,ab 58.000 € jährlich,https://www.karriere.at/jobs/7281994
-Senior Software Entwickler:in (.NET),HDI Versicherung AG,['Wien'],Vollzeit,Homeoffice,"ab 3.436,86 € monatlich",https://www.karriere.at/jobs/7232902
-Software Entwickler (m/w/d) Robotik,Computer Futures,['Wien'],Vollzeit,Homeoffice,ab 60.000 € jährlich,https://www.karriere.at/jobs/7319110
-Senior Software Entwickler:in C# / .NET (m/w/d),Dorotheum,['Wien Innenstadt'],Vollzeit,Homeoffice,ab 49.000 € jährlich,https://www.karriere.at/jobs/7293523
-Software-Entwickler (m/w/d),VACE Engineering GmbH,['Wien'],Vollzeit,Homeoffice,48.000 € – 67.000 € jährlich,https://www.karriere.at/jobs/7278910
-Praktikant Software Entwicklung (m/w/d) - befristet für 2 Jahre,Rheinmetall MAN Military Vehicles Österreich GesmbH,['Wien'],,,"ab 2.784,29 € monatlich",https://www.karriere.at/jobs/7302262
-Senior Software Entwickler*in C# oder Angular (w/m/d),MIA Systems GmbH,[],"Vollzeit, Teilzeit",Homeoffice,ab 4.000 € monatlich,https://www.karriere.at/jobs/7298971
-Softwareentwickler Python (m/w/d) - AI Software Engineer,Ratbacher GmbH,['Wien'],Vollzeit,Homeoffice,,https://www.karriere.at/jobs/7329784
-Software Engineer - Testsysteme (m/w/d),IVM Technical Consultants,[],Vollzeit,,ab 4.500 € monatlich,https://www.karriere.at/jobs/7304707
+title,company,locations,type,home_office,salary,url,description
+Cloud Engineer (all humans),Erste Bank,['Wien'],Vollzeit,,ab 56.448 € jährlich,https://www.karriere.at/jobs/7331392,"One bank.  Many career paths.
+
+#makeITmatter
+#makeITmatter
+Cloud Engineer for George (all humans)
+Location: Vienna, Wien, AustriaWorking-Hours: fulltime_permanentDivision: Group Digital BankingCompany: Erste DigitalApply now
+Location:
+Working-Hours: fulltime_permanentDivision: Group Digital BankingCompany: Erste DigitalApply now
+Working-Hours:
+
+Division:
+
+Company:
+
+Apply now
+Make a difference in the financial life of millions of people: At Erste Digital you are co-creating the digital future, in which better financial health is possible. #believeinyourself
+We are part of Erste Group - the largest banking group in Central and Eastern Europe with more than 2,500 branches and over 45,000 employees. Our more than 2,000 IT experts and enthusiasts are the bank's Digital Muscle.
+The Future of Banking is Digital. Digital transformation is happening at every level in the banking industry, and leading this initiative by delivering digital solutions across Erste Group, is what we do. Artificial Intelligence, check, Data Scientists making meaning from Big Data, we've got that covered too. One of our prized solutions is the award winning digital banking platform, George, providing a desktop and mobile banking gateway for the bank's retail customers. We are agile & awesome, creative & brave, playful & serious. And we are looking for great people to help us deliver this promise.
+What to do:
+As the saying goes; 'keep your feet on the ground, and your head in the clouds', is the type of person we are looking for. Someone who has the foresight and expertise to define the cloud landscape, while being the person on the ground helping the customer and our teams succeed in the cloud journey. As a Cloud Engineer, you will facilitate, communicate, design and guide the implementation of cloud technical blueprints. You will ultimately be responsible for matching the technical design specifications with the needs of our customers, but also help our project managers and cloud engineers understand these requirements with clarity.
+Cloud Engineer
+You check these boxes:
+Proven technical expertise in cloud technology and architecture SaaS, PaaS, IaaS and Digital Transformation related topics Multiple years of experience as an operations engineer, ideally with DevOps experience Scripting skills (bash / python), with Linux environment Strong trouble shooting and problem analysis skills Technical knowledge in any of the following areas: AWS Cloud Platform, Containers (Kubernetes, Docker, Cloud Foundry) and Terraform A natural confidence with your communication and team skills, while being fluent in English The right mindset for DevOps knowing the processes and the common tools (development pipeline, continuous delivery, automated testing, application analytics)
+Proven technical expertise in cloud technology and architecture SaaS, PaaS, IaaS and Digital Transformation related topics
+Multiple years of experience as an operations engineer, ideally with DevOps experience
+Scripting skills (bash / python), with Linux environment
+Strong trouble shooting and problem analysis skills
+Technical knowledge in any of the following areas: AWS Cloud Platform, Containers (Kubernetes, Docker, Cloud Foundry) and Terraform
+A natural confidence with your communication and team skills, while being fluent in English
+The right mindset for DevOps knowing the processes and the common tools (development pipeline, continuous delivery, automated testing, application analytics)
+Why you will like us:
+Possibility to benefit and learn from our international, talented and passionate community at Erste Interest groups and clubs: Take part in discussions and get involved in projects. Numerous interest groups invite you to engage with a topic Health Centre - The Erste Campus operates a fully equipped health center that offers all employees a high standard of medical services during working hours. Employee benefits - Benefit from special conditions for financial services and insurances, supermarkets, clothing stores and many more. Employee Referral Program - Become a talent scout for career opportunities in IT. We are rewarding every successful referral for Erste Digital A competitive and performance-related salary dependent on your professional and personal qualifications is granted - the minimum wage for this position in accordance with the respective collective agreement is EUR 56.448,-- gross per year. But this is just a formality, we are more than happy to discuss your actual expectations.
+Possibility to benefit and learn from our international, talented and passionate community at Erste
+Interest groups and clubs: Take part in discussions and get involved in projects. Numerous interest groups invite you to engage with a topic
+Health Centre - The Erste Campus operates a fully equipped health center that offers all employees a high standard of medical services during working hours.
+Employee benefits - Benefit from special conditions for financial services and insurances, supermarkets, clothing stores and many more.
+Benefit
+Employee Referral Program - Become a talent scout for career opportunities in IT. We are rewarding every successful referral for Erste Digital
+A competitive and performance-related salary dependent on your professional and personal qualifications is granted - the minimum wage for this position in accordance with the respective collective agreement is EUR 56.448,-- gross per year. But this is just a formality, we are more than happy to discuss your actual expectations.
+The way we are
+Erste Group considers the diversity of its employees as key to innovation and success. As employer we are proud to offer everyone equal chances, irrespective of age, skin colour, religious belief, gender, sexual orientation or origin.
+Apply now
+Apply now"
+Systems Engineer Server & Datacenter - Interne IT (m/w/d),NTS,"['Graz', 'Wien']",Vollzeit,Homeoffice,ab 56.000 € jährlich,https://www.karriere.at/jobs/7270738,"Systems Engineer Server & Datacenter - Interne IT (m/w/d)
+Graz oder Wien
+Du suchst eine herausfordernde Aufgabe in einem modernen und zukunftssicheren IT-Unternehmen? Wir erbringen für einige der interessantesten Kunden weltweit globale IT-Services und suchen weitere Superheld*innen, die uns auf dieser Mission unterstützen. Du willst Teil eines großartigen Teams werden, in dem du deine Skills einbringen und individuelle Werte wirklich leben kannst, wir möchten dich gerne kennenlernen.
+Deine Aufgaben
+Betreiben, Administrieren und Optimieren der NTS internen Microsoft Server Systeme, des Active Directories, sowie unserer Cloud Umgebungen Verwaltung unserer Virtualisierungstechnologien (VMware) Umsetzung von IT-Security Maßnahmen Implementierung und Verwaltung unserer Datacenter-Lösungen und -Architekturen mit besonderem Augenmerk auf Sicherheitsaspekte Implementierung und Überwachung von Sicherheits- und Compliance-Maßnahmen in der Server- und Datacenterumgebung Sicherstellen der Serviceverfügbarkeit (Monitoring) Unterstützung und Fehlerbehebung bei komplexen technischen Problemen Weiterentwickeln der internen Infrastruktur basierend auf den Anforderungen der Fachbereiche und der IT-Roadmap, aber auch durch das Einbringen eigener Ideen Dokumentation der Systeme und Prozesse, Implementierung sinnvoller KPI's für den Betrieb Zusammenarbeit und Training des Servicemanagement Teams
+Betreiben, Administrieren und Optimieren der NTS internen Microsoft Server Systeme, des Active Directories, sowie unserer Cloud Umgebungen
+Verwaltung unserer Virtualisierungstechnologien (VMware)
+Umsetzung von IT-Security Maßnahmen
+Implementierung und Verwaltung unserer Datacenter-Lösungen und -Architekturen mit besonderem Augenmerk auf Sicherheitsaspekte
+Implementierung und Überwachung von Sicherheits- und Compliance-Maßnahmen in der Server- und Datacenterumgebung
+Sicherstellen der Serviceverfügbarkeit (Monitoring)
+Unterstützung und Fehlerbehebung bei komplexen technischen Problemen
+Weiterentwickeln der internen Infrastruktur basierend auf den Anforderungen der Fachbereiche und der IT-Roadmap, aber auch durch das Einbringen eigener Ideen
+Dokumentation der Systeme und Prozesse, Implementierung sinnvoller KPI's für den Betrieb
+Zusammenarbeit und Training des Servicemanagement Teams
+Dein Profil
+Abgeschlossenes Studium im Bereich Informatik oder eine vergleichbare Qualifikation/Ausbildung Fundierte Kenntnisse in Microsoft-Technologien (Windows Server, Azure (Entra ID, Intune), Public Key Infrastructure, SQL-Server) Mehrjährige Berufserfahrung im Betrieb von Windows Server Betriebssystemen und Active Directory Erfahrung in der Verwaltung und Wartung von Virtualisierungsplattformen (VMWare) als auch mit Backuplösungen und Datacenterbetrieb Gutes IT-Security Verständnis Sehr gute Deutsch- oder Englischkenntnisse Ausgezeichnete Kommunikations- und Teamfähigkeit, Hohe Eigeninitiative Analytische und lösungsorientiere Arbeitsweise
+Abgeschlossenes Studium im Bereich Informatik oder eine vergleichbare Qualifikation/Ausbildung
+Fundierte Kenntnisse in Microsoft-Technologien (Windows Server, Azure (Entra ID, Intune), Public Key Infrastructure, SQL-Server)
+Mehrjährige Berufserfahrung im Betrieb von Windows Server Betriebssystemen und Active Directory
+Erfahrung in der Verwaltung und Wartung von Virtualisierungsplattformen (VMWare) als auch mit Backuplösungen und Datacenterbetrieb
+Gutes IT-Security Verständnis
+Sehr gute Deutsch- oder Englischkenntnisse
+Ausgezeichnete Kommunikations- und Teamfähigkeit, Hohe Eigeninitiative
+Analytische und lösungsorientiere Arbeitsweise
+Unser Angebot
+Ein modernes Arbeitsumfeld am neuesten Stand der Technik Eine Du-Kultur über alle Hierarchien Flexible Arbeitsmodelle, wie Home-Office, Sabbatical, Workation und vieles mehr Weiterentwicklung durch Fach- und Führungskarrieren Externe Weiterbildungen sowie interne Schulungen am NTS-Campus Legendäre Firmen- und Abteilungsevents RELAX - Gesundheitsförderung mit vielfältigen Angeboten von Shiatsu bis hin zu Coaching NTS Arbeitsort: Wien Für die ausgeschriebene Position wird ein Bruttojahresgehalt von EUR 56.000,- geboten. Eine Überzahlung ist abhängig von Qualifikation und Berufserfahrung.
+Ein modernes Arbeitsumfeld am neuesten Stand der Technik
+Eine Du-Kultur über alle Hierarchien
+Flexible Arbeitsmodelle, wie Home-Office, Sabbatical, Workation und vieles mehr
+Weiterentwicklung durch Fach- und Führungskarrieren
+Externe Weiterbildungen sowie interne Schulungen am NTS-Campus
+Legendäre Firmen- und Abteilungsevents
+RELAX - Gesundheitsförderung mit vielfältigen Angeboten von Shiatsu bis hin zu Coaching
+NTS Arbeitsort: Wien
+Für die ausgeschriebene Position wird ein Bruttojahresgehalt von EUR 56.000,- geboten. Eine Überzahlung ist abhängig von Qualifikation und Berufserfahrung.
+Wir freuen uns auf deine Bewerbung!GLEICH BEWERBEN
+
+GLEICH BEWERBEN
+» Graz oder Wien  » Vollzeit
+
+GROW
+» Aus- und Weiterbildungsangebote  » NTS Campus  » Individuelle Karrierepfade  » Zertifizierungen
+
+
+
+SOCIAL
+» Events  » Vergünstigungen & Prämien  » Mentor*innenprogramm  » Coaching
+
+
+
+RELAX
+» Shiatsu  » Jobbike  » Getränke & frisches Obst  » Workation
+
+
+
+WORK
+» Homeoffice  » Flexible Arbeitszeiten  » Top IT-Equipment  » Sabbatical
+
+
+
+RELAX, WE CARE: Mit dieser Motivation übernehmen wir Verantwortung, gestalten und betreuen IT-Lösungen mit Sorgfalt, Qualität und zertifizierter Erfahrung. Unsere technische Leidenschaft, gepaart mit Super Services, sorgt für begeisterte Kunden und langjährige Partnerschaften. Gemeinsam mit ausgewählten High-End-Herstellern kreieren wir Lösungen für die Bereiche Network, Security, Collaboration, Cloud und Data Center.
+RELAX, WE CARE:
+NTS RECRUITING TEAM  Parkring 4, 8074 Raaba-Grambach  www.nts.eu
+NTS RECRUITING TEAM  Parkring 4, 8074 Raaba-Grambach  www.nts.eu
+
+
+www.nts.eu"
+IT Network Engineer (m/w/d) Schwerpunkt Datacenter Network,Raiffeisen Informatik GmbH & Co KG,['Wien'],Vollzeit,Homeoffice,ab 3.828 € monatlich,https://www.karriere.at/jobs/7323145,"IT-KOMPETENZ FÜR FINANZ- UND VERSICHERUNGSDIENSTLEISTER
+Die RAIFFEISEN INFORMATIK GmbH & Co K G ist Teil der kritischen Infrastruktur und bietet professionelle IT-Dienstleistungen an. Höchste Qualitäts- und Sicherheitsstandards sind für die digitale Transformation und den Einsatz innovativer Lösungen von entscheidender Bedeutung Wir zeichnen uns durch die größtmögliche Verfügbarkeit der Services, ausfallsichere Infrastrukturen, Security Services, innovative Cloud-Technologien sowie eine lösungsorientierte und agile Unternehmenskultur aus.#bepartofIT
+RAIFFEISEN INFORMATIK GmbH & Co K
+G
+
+#bepartofIT
+Zur Verstärkung unseres Teams suchen wir ab sofort:
+IT Network Engineer (m/w/d) Schwerpunkt Datacenter Network
+RAIFFEISEN INFORMATIK GMBH & Co KG, Wien
+Deine Aufgaben
+Betrieb, Administration und Weiterentwicklung der Backbone und Data Center Infrastruktur Sicherstellung der Verfügbarkeit, Performance und Sicherheit des IT-Betriebs in einem dynamischen Team Fehleranalyse und Störungsbehebung als 2nd und 3rd Level Support Pflege und Erweiterung der Systemdokumentation sowie die Anbindung an Monitoringsysteme Bearbeitung und Umsetzung von Kundenanforderungen 7x24 Bereitschaftsdienst
+Betrieb, Administration und Weiterentwicklung der Backbone und Data Center Infrastruktur
+Sicherstellung der Verfügbarkeit, Performance und Sicherheit des IT-Betriebs in einem dynamischen Team
+Fehleranalyse und Störungsbehebung als 2nd und 3rd Level Support
+Pflege und Erweiterung der Systemdokumentation sowie die Anbindung an Monitoringsysteme
+Bearbeitung und Umsetzung von Kundenanforderungen
+7x24 Bereitschaftsdienst
+Das bringst du mit
+Abgeschlossene IT-spezifische Ausbildung (HTL, FH oder Uni) Mehrjährige Berufserfahrung (3+ Jahre) in einer vergleichbaren Position Sehr gute Kenntnisse über LAN und WAN Technologien (Ethernet, TCP/IP Protokollfamilie, Switching, Routing, etc.) Kenntnisse moderner Service Provider (BGP und MPLS), Data Center (Spine-Leaf & EVPN-VXLAN Overlays) und Cloud (AWS & Azure) Architekturen Erfahrung mit Juniper und Cisco Equipment Verständnis gängiger Security Mechanismen Scripting- / Programmierkenntnisse vorteilhaft Strukturierte und flexible Arbeitsweise, Eigenmotivation und analytisches Denkvermögen Teamplayer/in mit einer hohen Serviceorientierung Deutsch- und Englischkenntnisse in Wort & Schrift
+Abgeschlossene IT-spezifische Ausbildung (HTL, FH oder Uni)
+Mehrjährige Berufserfahrung (3+ Jahre) in einer vergleichbaren Position
+Sehr gute Kenntnisse über LAN und WAN Technologien (Ethernet, TCP/IP Protokollfamilie, Switching, Routing, etc.)
+Kenntnisse moderner Service Provider (BGP und MPLS), Data Center (Spine-Leaf & EVPN-VXLAN Overlays) und Cloud (AWS & Azure) Architekturen
+Erfahrung mit Juniper und Cisco Equipment
+Verständnis gängiger Security Mechanismen
+Scripting- / Programmierkenntnisse vorteilhaft
+Strukturierte und flexible Arbeitsweise, Eigenmotivation und analytisches Denkvermögen
+Teamplayer/in mit einer hohen Serviceorientierung
+Deutsch- und Englischkenntnisse in Wort & Schrift
+Das bieten wir
+Kantine/Café Betriebsärztin/Gesundheistcheck/Fitness flexible Arbeitszeiten Homeoffice Kantine/Café Vergünstigungen/betriebliche Pensionskasse/Zusatzversicherungen Betriebskindergarten/Vereinbarkeit Familie&Beruf Aus-/Weiterbildungen Fahrtkostenzuschuss
+Kantine/Café
+Betriebsärztin/Gesundheistcheck/Fitness
+flexible Arbeitszeiten
+Homeoffice
+Kantine/Café
+Vergünstigungen/betriebliche Pensionskasse/Zusatzversicherungen
+Betriebskindergarten/Vereinbarkeit Familie&Beruf
+Aus-/Weiterbildungen
+Fahrtkostenzuschuss
+Für diese Position wird je nach konkreter Qualifikation und adäquater positionsrelevanter Berufserfahrung ein monatliches Bruttogehalt gemäß IT-Kollektivvertrag geboten. KV-Einstufung ST2 Einstiegsstufe (3.828,-) für 38,5h/Woche   Unsere Gehaltspakete liegen - abhängig von deiner Erfahrung und Qualifikation und basierend auf dem oben angeführten Anforderungsprofil - deutlich über dem angegebenen Mindestgehalt.
+KV-Einstufung ST2 Einstiegsstufe (3.828,-) für 38,5h/Woche
+
+
+JOIN OUR TEAM & WORK WITH US
+Noch Fragen? Melde dich bei:Frau Yasmin Schmid, BARaiffeisen Informatik GmbH & Co KGLilienbrunngasse 7-9 | 1020 WienM: +43-664-8877-3249www.r-it.at
+Noch Fragen?
+Frau Yasmin Schmid, BARaiffeisen Informatik GmbH & Co KGLilienbrunngasse 7-9 | 1020 WienM: +43-664-8877-3249www.r-it.at
+Yasmin Schmid,
+Raiffeisen Informatik GmbH & Co KGLilienbrunngasse 7-9 | 1020 WienM: +43-664-8877-3249www.r-it.at
+
+
+
+www.r-it.at
+BEWIRB DICH HIER
+BEWIRB DICH HIER"
+Data Engineer (w/m/d) mit Fokus Process Mining,Allianz Gruppe in Österreich,['Wien'],Vollzeit,Homeoffice,ab 60.000 € jährlich,https://www.karriere.at/jobs/7288105,"VOLLES POTENZIAL ENTWICKELN
+Gemeinsam leben wir tagtäglich unser Engagement für Vielfalt und Integration. Unserer gesellschaftlichen und sozialen Verantwortung sind wir uns bewusst und verankern diese auch tief in unserer Unternehmenskultur.
+Gemeinsam leben wir tagtäglich unser Engagement für Vielfalt und Integration. Unserer gesellschaftlichen und sozialen Verantwortung sind wir uns bewusst und verankern diese auch tief in unserer Unternehmenskultur.
+Die Allianz Gruppe in Österreich sucht in Wien:
+Data Engineer (w/m/d) mit Fokus Process Mining
+Was wir bieten:
+Erfolgreiche Mitarbeit in einem der weltgrößten Versicherungsunternehmen und einem Great Place to Work(R) I flexible Möglichkeiten für mobiles Arbeiten innerhalb Österreichs I top modernes Büro im ICON TOWER direkt beim Hauptbahnhof Wien I Du-Kultur I Weiterbildung wird bei uns groß geschrieben: ausgezeichnete Ausbildungs- und e-learning Möglichkeiten I Essenszuschuss I vergünstigte Konditionen bei Versicherungen I Mitarbeiter:innen Aktienprogramm I Corporate Volunteering I vielfältige Sport- und Gesundheitsangebote I Wir feiern unsere Erfolge   Das Data Office der Allianz Österreich sucht eine/n engagierte/n Data Engineer (w/m/d) mit einem Schwerpunkt auf Process Mining. Die Arbeit ist geprägt von intensiver Zusammenarbeit mit Fachbereichen, Agile Tribes und der Allianz Technology.
+
+
+Die Aufgaben:
+Planung, Implementierung und Verwaltung der ETL-Prozesse zur Integration von Daten in das Process Mining Tool Celonis, sowie Analyse und Interpretation von Prozessdaten zur Identifikation von Optimierungspotenzialen. Kontinuierliche Verbesserung der ETL-Prozesse unter Nutzung neuer Technologien auf der Allianz Data Platform (ADP). Organisation des Aufbaus, der Wartung und Optimierung (hinsichtlich Performance und Kosteneffizienz) von Datenpipelines sowie Data-Warehouse-Prozessen in Zusammenarbeit mit Allianz Technology. Strukturierung und Optimierung von Datenmodellen zur Unterstützung unternehmensweiter Analysen. Mitwirken an Data Governance Aufgaben: Einführung und Überprüfung der Einhaltung von Data Quality Standards und Entwicklung entsprechender Prozesse zur Sicherstellung der Datenqualität. Mitarbeit bei der Erstellung eines SAS-Ablösekonzeptes und Mitarbeit im ADP Migrationsprojekt. Überwachung und Optimierung der Data Platform - Kosten hinsichtlich Ressourcennutzung, Speicherstrategien etc.
+Planung, Implementierung und Verwaltung der ETL-Prozesse zur Integration von Daten in das Process Mining Tool Celonis, sowie Analyse und Interpretation von Prozessdaten zur Identifikation von Optimierungspotenzialen.
+Kontinuierliche Verbesserung der ETL-Prozesse unter Nutzung neuer Technologien auf der Allianz Data Platform (ADP).
+Organisation des Aufbaus, der Wartung und Optimierung (hinsichtlich Performance und Kosteneffizienz) von Datenpipelines sowie Data-Warehouse-Prozessen in Zusammenarbeit mit Allianz Technology.
+Strukturierung und Optimierung von Datenmodellen zur Unterstützung unternehmensweiter Analysen.
+Mitwirken an Data Governance Aufgaben: Einführung und Überprüfung der Einhaltung von Data Quality Standards und Entwicklung entsprechender Prozesse zur Sicherstellung der Datenqualität.
+Mitarbeit bei der Erstellung eines SAS-Ablösekonzeptes und Mitarbeit im ADP Migrationsprojekt.
+Überwachung und Optimierung der Data Platform - Kosten hinsichtlich Ressourcennutzung, Speicherstrategien etc.
+Unsere Anforderungen
+Programmierkenntnisse (Python, Java, Scala oder ähnliches), sowie in SQL Gute Kenntnisse in den folgenden Bereichen: Datenbanken (relationale DBs und NoSQL DBs), Datenmodellierung, Cloud (vorzugsweise Azure), Process Mining Tools (Celonis oder ähnliches) Verständnis von Datenqualitäts-Standards und -praktiken (Data Governance) Vertrautheit mit internen Datenstrukturen und -systemen der Allianz: ABS (GFB) und/oder SAS (IDV). Prozessmodellierungs- und (Prozess-)Visualisierungsfähigkeiten Starke Analyse- und Problemlösungsfähigkeiten Ausgeprägte Kommunikations-Skills Betriebswirtschaftliches Denken und Kosten-Nutzen Abwägungen hinsichtlich des Erarbeitens (kosten)effizienter Daten-Lösungen Sehr gute Deutsch- und Englisch-Kenntnisse (C1)
+Programmierkenntnisse (Python, Java, Scala oder ähnliches), sowie in SQL
+Gute Kenntnisse in den folgenden Bereichen:
+Datenbanken (relationale DBs und NoSQL DBs), Datenmodellierung, Cloud (vorzugsweise Azure), Process Mining Tools (Celonis oder ähnliches)
+Verständnis von Datenqualitäts-Standards und -praktiken (Data Governance)
+Vertrautheit mit internen Datenstrukturen und -systemen der Allianz: ABS (GFB) und/oder SAS (IDV).
+Prozessmodellierungs- und (Prozess-)Visualisierungsfähigkeiten
+Starke Analyse- und Problemlösungsfähigkeiten
+Ausgeprägte Kommunikations-Skills
+Betriebswirtschaftliches Denken und Kosten-Nutzen Abwägungen hinsichtlich des Erarbeitens (kosten)effizienter Daten-Lösungen
+Sehr gute Deutsch- und Englisch-Kenntnisse (C1)
+INFORMATION ZUR STELLE:
+Eintrittstermin: ab sofort I Stundenausmaß: 38,5 Wochenstunden I Dienstort: ICON -Hauptbahnhof, 1100 Wien  Jahresbruttogehalt: ab EUR 60.000.- (je nach Qualifikation Bereitschaft zur Überzahlung)   Nähere Information zum Bewerbungsprozess bei:  Franz Reisner (People & Culture / Attraction), Email: franz.reisner@allianz.at   Wir freuen uns daher über Bewerbungen unabhängig von ethnischer oder kultureller Herkunft, Alter, Geschlecht, Nationalität, Religion, Behinderung oder sexueller Orientierung.  Let´s care for tomorrow.
+
+
+
+
+franz.reisner@allianz.at
+
+
+Wir freuen uns daher über Bewerbungen unabhängig von ethnischer oder kultureller Herkunft, Alter, Geschlecht, Nationalität, Religion, Behinderung oder sexueller Orientierung.  Let´s care for tomorrow.
+
+Apply now!  CAREERS.ALLIANZ.COM  Join Allianz. Let's care for tomorrow.
+Apply now!
+
+CAREERS.ALLIANZ.COM
+CAREERS.ALLIANZ.COM
+
+Join Allianz. Let's care for tomorrow."
+Senior Data Engineer (Azure / Databricks) (m/w/d),Capgemini,"['Wien', 'Graz']",Vollzeit,Homeoffice,ab 60.000 € jährlich,https://www.karriere.at/jobs/7258960,"Senior Data Engineer (Azure / Databricks, Wien/Graz) (m/w/d)
+WienGraz
+WienGraz
+Jetzt bewerben
+Jetzt bewerben
+Mit Capgemini entscheidest du dich für ein Unternehmen, in dem du die Möglichkeit hast, deine Karriere so zu gestalten, wie du es dir wünscht. Indem du von einer kollaborativen Gemeinschaft von Kolleg/innen auf der ganzen Welt unterstützt und inspiriert wirst und die Chance hast, dir neue Möglichkeiten vorzustellen. Komm zu uns und hilf uns den weltweit führenden Organisationen, den Wert von Technologien zu zeigen und eine nachhaltigere, inklusivere Welt zu schaffen.
+DEINE ROLLE
+DEINE ROLLE
+Als Data Engineer bei Capgemini bist du involviert in die Realisierung von Datenintegrationslösungen. Deine Skills nutzt du, um Datenplattformen und -prozesse zu konzipieren und weiterzuentwickeln.
+In dieser Position wirst du eine wichtige Rolle spielen in:
+Der Integration von Daten aus APIs, Batch-Prozessen und Echtzeit-Datenströmen Lade transformierte Daten in Data Warehouses, Data Lakes oder andere Speichersysteme Du übernimmst das Entwerfen, Erstellen und Warten skalierbarer und effizienter Datenpipelines Entwerfen und Implementieren von Datenmodellen, die die Struktur und Beziehungen von Daten darstellen und gleichzeitig sicherstellen, dass Geschäftsanforderungen und analytische Bedürfnisse erfüllt werden liegen in deiner Verantwortung
+Der Integration von Daten aus APIs, Batch-Prozessen und Echtzeit-Datenströmen
+Lade transformierte Daten in Data Warehouses, Data Lakes oder andere Speichersysteme
+Du übernimmst das Entwerfen, Erstellen und Warten skalierbarer und effizienter Datenpipelines
+Entwerfen und Implementieren von Datenmodellen, die die Struktur und Beziehungen von Daten darstellen und gleichzeitig sicherstellen, dass Geschäftsanforderungen und analytische Bedürfnisse erfüllt werden liegen in deiner Verantwortung
+DEIN PROFIL
+DEIN PROFIL
+Mehrjährige Erfahrung in der Big Data Projektumsetzung mit Databricks und Azure Sehr gute Kenntnisse von SQL und Python Know-How und praktische Erfahrung in der Datenmodellierung (Kimball, Data Vault) Erfahrung in der Umsetzung von Data Warehouse/Lake/Lakehouse Projekten Teamfähigkeit und überzeugende kommunikative Skills, sowie sehr gute Deutsch- und Englischkenntnisse
+Mehrjährige Erfahrung in der Big Data Projektumsetzung mit Databricks und Azure
+Sehr gute Kenntnisse von SQL und Python
+Know-How und praktische Erfahrung in der Datenmodellierung (Kimball, Data Vault)
+Erfahrung in der Umsetzung von Data Warehouse/Lake/Lakehouse Projekten
+Teamfähigkeit und überzeugende kommunikative Skills, sowie sehr gute Deutsch- und Englischkenntnisse
+Von Vorteil:
+Zertifizierungen im Bereich Microsoft Azure und Databricks Wissen im Bereich Automatisierung (CI/CD) und DevOps Verständnis von nachgelagerten Prozessen (BI, Data Science, AI) und deren Anforderungen
+Zertifizierungen im Bereich Microsoft Azure und Databricks
+Wissen im Bereich Automatisierung (CI/CD) und DevOps
+Verständnis von nachgelagerten Prozessen (BI, Data Science, AI) und deren Anforderungen
+WAS DIR BEI UNS BESONDERS GEFALLEN WIRD
+WAS DIR BEI UNS BESONDERS GEFALLEN WIRD
+Wir verstehen die Bedeutung flexibler Arbeitsregelungen, daher bieten wir HomeOffice und flexible Arbeitszeiten. Zudem bieten wir mit unserem FlexAbroad Programm auch 45 Tage im Jahr arbeiten in ausgewählten EU-Staaten an. Du erhältst ein Umfeld, in dem du eine gesunde Work-Life-Balance aufrechterhalten kannst. Das Herzstück unserer Mission ist deine berufliche Entwicklung. Unser Angebot an Programmen für die berufliche Weiterbildung und verschiedenen Positionen ist darauf ausgerichtet, dich bei der Erkundung einer Welt voller Möglichkeiten zu unterstützen. Rüste dich mit wertvollen Zertifizierungen in den neuesten Technologien wie Microsoft Azure und Databricks aus. Wir bieten Zusatzleistungen wie regelmäßige Team- und Firmenveranstaltungen, monatliche Essensgutscheine, die Jahreskarte der Wiener Linien, Massagen im Büro und vieles mehr.
+Wir verstehen die Bedeutung flexibler Arbeitsregelungen, daher bieten wir HomeOffice und flexible Arbeitszeiten. Zudem bieten wir mit unserem FlexAbroad Programm auch 45 Tage im Jahr arbeiten in ausgewählten EU-Staaten an. Du erhältst ein Umfeld, in dem du eine gesunde Work-Life-Balance aufrechterhalten kannst.
+flexibler Arbeitsregelungen
+Das Herzstück unserer Mission ist deine berufliche Entwicklung. Unser Angebot an Programmen für die berufliche Weiterbildung und verschiedenen Positionen ist darauf ausgerichtet, dich bei der Erkundung einer Welt voller Möglichkeiten zu unterstützen.
+berufliche Entwicklung
+Rüste dich mit wertvollen Zertifizierungen in den neuesten Technologien wie Microsoft Azure und Databricks aus.
+Zertifizierungen
+Wir bieten Zusatzleistungen wie regelmäßige Team- und Firmenveranstaltungen, monatliche Essensgutscheine, die Jahreskarte der Wiener Linien, Massagen im Büro und vieles mehr.
+Zusatzleistungen
+Kollektivvertrag für Angestellte in Information und Consulting, Mindestgehalt von 60.000 Euro brutto pro Jahr, marktkonforme Überzahlung abhängig von Qualifikation und Erfahrung.
+Wir freuen uns über Deine Bewerbung auf Englisch, ausschließlich über unser Bewerbungsportal und unter Angabe von Gehaltsvorstellung und frühestmöglichem Eintrittszeitpunkt.
+Wir haben tolle Benefits
+Internationalität Verantwortung Flexibilität Weiterentwicklung Teamgeist
+Internationalität
+Verantwortung
+Flexibilität
+Weiterentwicklung
+Teamgeist
+Über das Unternehmen
+Über Capgemini
+Über Capgemini
+Capgemini ist ein globaler Business- und Technologie-Transformationspartner für Organisationen. Das Unternehmen unterstützt diese bei ihrer dualen Transformation für eine stärker digitale und nachhaltige Welt - stets auf greifbare Fortschritte für die Gesellschaft bedacht. Capgemini ist eine verantwortungsbewusste, diverse Unternehmensgruppe mit einer über 55-jährigen Geschichte und 340.000 Mitarbeitenden in mehr als 50 Ländern. Kunden vertrauen auf Capgemini, um das Potenzial von Technologie für die ganze Breite ihrer Geschäftsanforderungen zu erschließen. Capgemini entwickelt mit seiner starken Strategie, Design- und Engineering-Expertise umfassende Services und End-to-End-Lösungen. Dabei nutzt das Unternehmen seine führende Kompetenz in den Bereichen KI, Cloud und Daten sowie seine profunde Branchenexpertise und sein Partner-Ökosystem. Die Gruppe erzielte 2023 weltweit einen Umsatz von 22,5 Milliarden Euro.
+Get the future you want | www.capgemini.com/at-de
+www.capgemini.com/at-de
+Karolina Niemczura | Ansprechpartner
+E-Mail schickenJetzt bewerben
+E-Mail schicken
+
+Jetzt bewerben"
+(Senior) Data Engineer (m/w/d),Cegeka Business Solutions Österreich GmbH,['Wien'],"Vollzeit, Teilzeit",Homeoffice,ab 55.000 € jährlich,https://www.karriere.at/jobs/7317532,"(Senior) Data Engineer (m/w/d)
+Wien bzw.  Homeoffice
+
+Teil- & Vollzeit
+attraktives Gehalt
+ab sofort
+Deine Passion sind Daten? Du möchtest an der Entwicklung moderner Datenplattformen arbeiten und gemeinsam mit deinen Kund:innen erfolgreiche Projekte abwickeln? Du hast bereits erste Erfahrung als Data Engineer oder verfügst über umfangreiche Kenntnisse als Data Solution Architect? Dann bist du bei unserem Data & Analytics-Team genau richtig!
+Entwicklung moderner Datenplattformen
+erfolgreiche Projekte
+Data & Analytics-Team
+DEINE AUFGABENGEBIETE
+Je nach Erfahrungslevel gehören folgende Tätigkeiten zu deinem Aufgabenbereich:
+Du unterstützt unsere Kund:innen dabei, sich zu einer Data Driven Company zu entwickeln. Du bist zuständig für die Entwicklung und den Aufbau von modernen Datenplattformen bzw. verantwortest auch die Erstellung der zugrunde liegenden Architekturen. Du bist für die Konzeptionierung und Umsetzung von Datenpipelines verantwortlich. Im Zuge der Anforderungsanalyse erhebst du Kundenanforderungen und definierst die Datenmodelle. Du implementierst gemeinsam mit unseren Kund:innen Data Governance-Prozesse im Unternehmen. Du übernimmst die (Teil-)Projektleitung von Datenprojekten.
+Du unterstützt unsere Kund:innen dabei, sich zu einer Data Driven Company zu entwickeln.
+Data Driven Company
+Du bist zuständig für die Entwicklung und den Aufbau von modernen Datenplattformen bzw. verantwortest auch die Erstellung der zugrunde liegenden Architekturen.
+Entwicklung und den Aufbau von modernen Datenplattformen
+Erstellung der zugrunde liegenden Architekturen
+Du bist für die Konzeptionierung und Umsetzung von Datenpipelines verantwortlich.
+Konzeptionierung und Umsetzung von Datenpipelines
+Im Zuge der Anforderungsanalyse erhebst du Kundenanforderungen und definierst die Datenmodelle.
+Anforderungsanalyse
+Du implementierst gemeinsam mit unseren Kund:innen Data Governance-Prozesse im Unternehmen.
+implementierst
+Data Governance-Prozesse
+Du übernimmst die (Teil-)Projektleitung von Datenprojekten.
+(Teil-)Projektleitung von Datenprojekten
+DAS BRINGST DU MIT
+Je nach Erfahrunslevel verfügst du über folgende Qualifikationen:
+Knowhow zu Themen wie Data Warehouse, Data Lakehouse, ETL/ELT, Data Pipelines und Data Lakes Gute Kenntnisse in SQL; Python- und Spark-Knowhow sind ein Plus. Erfahrung in der Cloud, bevorzugt Azure Cloud (Azure Data Factory, Azure Synapse, Azure Databricks) Erfahrung mit Microsoft Fabric, Microsoft Power Platform, Artificial Intelligence und Machine Learning von Vorteil Erfahrung mit Data Warehouse- und Business Intelligence-Systemen Erfahrung mit Datenmodellen eines ERP-Systems (v.a. Microsoft Dynamics 365) Idealerweise Erfahrung im Projektmanagement Teamgeist und Bereitschaft für Knowledge Sharing Strukturierte Arbeitsweise und Kundenorientierung Abgeschlossene technische bzw. betriebswirtschaftliche Ausbildung Sehr gute Deutsch- und Englischkenntnisse für unsere international tätigen Kund:innen und unser länderübergreifendes Team
+Knowhow zu Themen wie Data Warehouse, Data Lakehouse, ETL/ELT, Data Pipelines und Data Lakes
+Data Warehouse, Data Lakehouse, ETL/ELT, Data Pipelines und Data Lakes
+Gute Kenntnisse in SQL; Python- und Spark-Knowhow sind ein Plus.
+Gute Kenntnisse in SQL; Python- und Spark-Knowhow
+Erfahrung in der Cloud, bevorzugt Azure Cloud (Azure Data Factory, Azure Synapse, Azure Databricks)
+Erfahrung in der Cloud
+Azure Cloud
+Erfahrung mit Microsoft Fabric, Microsoft Power Platform, Artificial Intelligence und Machine Learning von Vorteil
+Microsoft Fabric
+Erfahrung mit Data Warehouse- und Business Intelligence-Systemen
+Data Warehouse- und Business Intelligence-Systemen
+Erfahrung mit Datenmodellen eines ERP-Systems (v.a. Microsoft Dynamics 365)
+Erfahrung mit Datenmodellen eines ERP-Systems
+Idealerweise Erfahrung im Projektmanagement
+Projektmanagement
+Teamgeist und Bereitschaft für Knowledge Sharing
+Strukturierte Arbeitsweise und Kundenorientierung
+Abgeschlossene technische bzw. betriebswirtschaftliche Ausbildung
+Sehr gute Deutsch- und Englischkenntnisse für unsere international tätigen Kund:innen und unser länderübergreifendes Team
+Sehr gute Deutsch- und Englischkenntnisse
+DARAUF KANNST DU DICH FREUEN
+Freude an der Arbeit & spitzenmäßige Kolleg:innen
+Firmenhandy & Laptop auch privat nutzen
+Ein sicheres Arbeitsumfeld und spannende Karrieremöglichkeiten
+Essensgutscheine & kostenfreie Gesundheitsmaßnahmen
+Regelmäßige Teamevents
+Flexible Arbeitszeiten
+Umfangreiche individuelle Möglichkeiten zur Weiterbildung
+Viele Möglichkeiten, dein Arbeitsumfeld aktiv mitzugestalten
+Herausfordernde Aufgaben in erfolgreichen Projekten
+ERP   Microsoft Dynamics 365
+ERP
+
+
+BI   Microsoft Power Platform
+BI
+
+
+CLOUD   Microsoft Azure
+CLOUD
+
+
+Wir sind überzeugt: Gute Arbeit muss auch gut bezahlt werden.  Das jährliche Gehalt beginnt für diese Position üblicherweise bei EUR 55.000,-- brutto. Abhängig von deinem Profil und deiner Qualifikation ist eine Überzahlung darüber hinaus selbstverständlich. Deine laufende Aus- und Weiterbildung wird von uns natürlich gefördert und unterstützt.
+Gute Arbeit muss auch gut bezahlt werden.
+
+EUR 55.000,-- brutto
+Überzahlung darüber hinaus selbstverständlich
+DAS SIND WIR
+Die Cegeka Business Solutions Österreich GmbH hat ihren Sitz im 1. Wiener Bezirk sowie Zweigniederlassungen in Neulengbach und Graz. Unser Unternehmen ist ein Prozessberatungs- und Microsoft Dynamics 365-Implementierungsunternehmen mit einhergehender Technologieberatung.   Als Teil der belgischen Cegeka-Gruppe unterstützen wir erfolgreiche Unternehmen mit innovativen IT-Lösungen im Bereich IT-Infrastruktur, Entwicklung und Implementierung von Business-Applikationen. Cegeka Business Solutions ist weltweit einer der führenden Dynamics 365-Partner mit mehr als 640 Microsoft Dynamics 365-Expert:innen in Europa.
+Prozessberatungs- und Microsoft Dynamics 365-Implementierungsunternehmen
+
+
+IT-Infrastruktur, Entwicklung und Implementierung von Business-Applikationen
+mehr als 640 Microsoft Dynamics 365-Expert:innen in Europa
+HABEN WIR DEIN INTERESSE GEWECKT?
+Sende deine Unterlagen jetzt gleich via smart bewerben!  Weitere Informationen zum Unternehmen findest du auf unserer Webseite unter www.cegeka.at sowie in den sozialen Medien. Wir freuen uns auf deine Bewerbung!
+smart bewerben
+smart bewerben
+
+www.cegeka.at
+www.cegeka.at"
+(Senior) Data Engineer (m/f/d),Philip Morris Austria GmbH,['Wien'],Vollzeit,,ab 65.000 € jährlich,https://www.karriere.at/jobs/7299721,"(SENIOR) DATA ENGINEER (M/F/D)
+- Full-time in Vienna as soon as possible -
+Become part of a revolutionary change! We have decided to do something incredible. We're transforming our business towards a smoke-free future and it's not just about establishing a strong brand - the excitement is about building something new, innovative and unprecedented.   Big changes bring big opportunities: wherever you join us, at Philip Morris Austria you'll be given the freedom to work on new and innovative solutions and to advance your career in very different directions. Become part of our vision and join our Data Intelligence Team in Vienna.
+
+
+WE OFFER YOU:
+Employees are our top priority. Within the framework of a coordinated development plan, it is our goal to promote and advance you in the best possible way - always with your individual situation in mind. Start-up mentality in a large corporation. As part of the biggest transformation in the history of Philip Morris International, you will enjoy the benefits of a global company, international exchange and that with a great, dynamic and motivated team, with flat hierarchies and the chance to take ownership of yourself and your ideas. An all-in employment contract with flexible working hours, a wide range of benefits, demanding activities and exciting challenges are an integral part of our everyday working life. We offer you an attractive basic salary of at least EUR 65,000/year gross, with the willingness to overpay in line with the market depending on experience and qualifications - regardless of gender. We are the first international enterprise to be Equal Salary certified.
+Employees are our top priority. Within the framework of a coordinated development plan, it is our goal to promote and advance you in the best possible way - always with your individual situation in mind.
+Start-up mentality in a large corporation. As part of the biggest transformation in the history of Philip Morris International, you will enjoy the benefits of a global company, international exchange and that with a great, dynamic and motivated team, with flat hierarchies and the chance to take ownership of yourself and your ideas.
+An all-in employment contract with flexible working hours, a wide range of benefits, demanding activities and exciting challenges are an integral part of our everyday working life.
+We offer you an attractive basic salary of at least EUR 65,000/year gross, with the willingness to overpay in line with the market depending on experience and qualifications - regardless of gender. We are the first international enterprise to be Equal Salary certified.
+THE ""DATA INTELLIGENCE"" TEAM:
+We are looking for a ""(Senior) Data Engineer"" to join our ""Data Intelligence"" team based in our headquarter in Vienna, Austria. The team is building analytics capabilities to enable data driven decision making with focus on delivering high quality data for different business functions. The Data warehouse platform currently hosted on AWS and levering the Microsoft Business Intelligence stack will be moved to Snowflake and Matillion.
+THE ""DATA ENGINEER"" ROLE:
+As a ""(Senior) Data Engineer"", you will join a growing team where you maintain and further enhance our Data warehouse using AWS services (S3 etc.), Terraform, Microsoft Services (SSIS, ETL, SQL etc.). You will also need good business understanding and communication skills for the day-to-day work with internal business functions, central expert teams, and vendors.  One of the key projects will be to lead the migration towards a global Enterprise Data Platform (Data Ocean) and leveraging tools such as Snowflake, Matillion and AWS.
+
+YOUR RESPONSIBILITIES:
+Creating, Testing and Deploying Pipelines: Design, develop, and maintain data pipelines for efficient data ingestion, processing, and delivery. Ensure Data Completeness and Quality: Implement mechanisms to ensure data completeness, accuracy, and consistency across all data sources and processes. Optimizing and Maintaining Warehouse: Continuously improve the performance and scalability of the data warehouse, implementing optimization techniques and best practices. Continuous Improvement: Identify opportunities for process optimization and automation, striving for continuous improvement in data management practices. Data Analysis: Analyze and interpret data to provide actionable insights and recommendations to stakeholders, supporting data-driven decision-making processes. Work with Vendors: Collaborate with external vendors to integrate new data sources into the data ecosystem, ensuring seamless data flow and integration. Problem-Solving: Leveraging innovative approaches to optimize processes and enhance data quality. Proactive Role: Actively anticipate and resolve potential data issues before they escalate, demonstrating a proactive approach to data.
+Creating, Testing and Deploying Pipelines: Design, develop, and maintain data pipelines for efficient data ingestion, processing, and delivery.
+Ensure Data Completeness and Quality: Implement mechanisms to ensure data completeness, accuracy, and consistency across all data sources and processes.
+Optimizing and Maintaining Warehouse: Continuously improve the performance and scalability of the data warehouse, implementing optimization techniques and best practices.
+Continuous Improvement: Identify opportunities for process optimization and automation, striving for continuous improvement in data management practices.
+Data Analysis: Analyze and interpret data to provide actionable insights and recommendations to stakeholders, supporting data-driven decision-making processes.
+Work with Vendors: Collaborate with external vendors to integrate new data sources into the data ecosystem, ensuring seamless data flow and integration.
+Problem-Solving: Leveraging innovative approaches to optimize processes and enhance data quality.
+Proactive Role: Actively anticipate and resolve potential data issues before they escalate, demonstrating a proactive approach to data.
+YOUR PROFILE:
+You have graduated in Computer Science, Statistics, Informatics, Information Systems, or another quantitative field. You have at least 3 years of hands-on experience in a Data Engineer and Data analytics role, working with SQL Server, Snowflake, at least one ETL/ELT tool, S3 buckets, CI/CD pipelines, and Git. Proficient in SQL and with data warehousing concepts and best practices. Proficiency in at least one scripting/programming languages such as PowerShell or Python for data manipulation, automation, and scripting tasks. Hands-on experience with cloud platforms such as AWS, Azure, or Google Cloud Platform (GCP) for deploying and managing data infrastructure and services. You are fluent in English, both written and spoken - German is a plus Uphold professional conduct and integrity in all interactions, demonstrating accountability, respect, and professionalism, even in challenging situations. Ability to work in a fast-paced environment with multiple priorities and tight deadlines. Demonstrate resilience in overcoming obstacles and setbacks, maintaining a positive attitude and persevering towards goals.
+You have graduated in Computer Science, Statistics, Informatics, Information Systems, or another quantitative field.
+You have at least 3 years of hands-on experience in a Data Engineer and Data analytics role, working with SQL Server, Snowflake, at least one ETL/ELT tool, S3 buckets, CI/CD pipelines, and Git.
+Proficient in SQL and with data warehousing concepts and best practices.
+Proficiency in at least one scripting/programming languages such as PowerShell or Python for data manipulation, automation, and scripting tasks.
+Hands-on experience with cloud platforms such as AWS, Azure, or Google Cloud Platform (GCP) for deploying and managing data infrastructure and services.
+You are fluent in English, both written and spoken - German is a plus
+Uphold professional conduct and integrity in all interactions, demonstrating accountability, respect, and professionalism, even in challenging situations.
+Ability to work in a fast-paced environment with multiple priorities and tight deadlines.
+Demonstrate resilience in overcoming obstacles and setbacks, maintaining a positive attitude and persevering towards goals.
+JOIN A GLOBAL MARKET LEADER
+Philip Morris Austria GmbH, founded in Austria in 2012, is a company of Philip Morris International Inc. (PMI), the world's leading international tobacco company. The company's portfolio includes six of the world's top 15 brands of the world's leading cigarette brands. PMI sells its products in approximately 180 countries around the world. Philip Morris Austria GmbH is the market leader in the Austrian cigarette market. Philip Morris is also involved in the development and distribution of heat-not-burn tobacco products. Further information is available at www.pmi.com/markets/austria/de.
+www.pmi.com/markets/austria/de
+INTERESTED? APPLY ONLINE AT WWW.PMICAREERS.COM WITH YOUR CV, A LETTER OF MOTIVATION AND YOUR CERTIFICATES IN ENGLISH!
+WWW.PMICAREERS.COM
+APPLY →
+APPLY →"
+Data Engineer (w/m/d),TECHSEARCH,['Wien'],Vollzeit,Homeoffice,3.900 € – 5.000 € monatlich,https://www.karriere.at/jobs/7309774,"Data Engineer (w/m/d)
+Wir suchen für unseren Kunden einen Data Engineer (w/m/d) mit sehr guten SQL-Know-how, um die Weiterentwicklung von Datenstrukturen und Datenbereitstellungsprozesse mitzugestalten sowie Datenanalysen und Reports mit aussagekräftiger Visualisierungen zu erstellen.
+Bewerbung:via smart bewerben
+
+smart bewerben
+Referenznummer:207041-SPTS
+
+Ansprechperson:Mag.a (FH) Sabine Pötz
+
+Verantwortungsbereich
+Als Data Engineer (w/m/d) sind Sie mit Ihrer Data-Expertise innerhalb eines Fachbereichs für die Aufbereitung strukturierter Daten und die Optimierung des Datenbereitstellungsprozesses federführend verantwortlich.
+Aufbereitung strukturierter Daten
+Optimierung des Datenbereitstellungsprozesses
+Sie erfassen und analysieren Sie die Anforderungen der verschiedenen Stakeholder, entwickeln SQL-Abfragen zur Datenaufbereitung und erstellen automatisierte Reports sowie interaktive BI-Lösungen für die spezielle Domäne.
+erfassen und analysieren
+Anforderungen
+entwickeln SQL-Abfragen
+automatisierte Reports
+interaktive BI-Lösungen
+Sie arbeiten dabei eng mit dem Data-Management-Team zusammen und mitverantworten so organisationsweit die Implementierung von ETL-Prozessen und die Weiterentwicklung der Datenbanksysteme bzw. DWH-Lösungen.
+ETL-Prozessen
+Weiterentwicklung der Datenbanksysteme bzw. DWH-Lösungen
+Was wir Ihnen bieten
+Kontinuität und Fortschritt: Sie werden Teil einer bekannten österreichischen Organisation in zentraler Lage in Wien, in der mehr als 800 Mitarbeiterinnen und Mitarbeiter tätig sind. Data-Management-Pionier-Arbeit: Es erwartet Sie ein modernes Data-Management-Umfeld und die Zusammenarbeit mit Data Engineers, Data Scientists und Data Visualization Engineers, wodurch Sie sich mit Ihrer Erfahrung in einem professionellen Umfeld einbringen und in Ihrem Bereich federführend Data-Management-Verantwortung übernehmen. Kultur der Vielfalt und Balance : Die hervorragende Unternehmenskultur ist durch ein ausgewogenes Maß an Kontinuität und Innovation, Loyalität und Qualitätsbewusstsein und hohe Zuverlässigkeit geprägt. Eigenständig stark, im Team unschlagbar: Die Teamkultur spiegelt die Unternehmenskultur wider und wir pflegen einen eigenverantwortlichen, teamorientierten und lösungsorientierten Arbeitsstil aus. Entwicklungsperspektiven: Wir orientieren uns an langfristigen Vertragsbeziehungen und bieten neben einem professionellen Onboarding-Phase ein umfassendes Aus- und Weiterbildungsangebot, damit wir uns gemeinsam entwickeln können. Rundum gut versorgt: Diverse Gesundheitsmaßnahmen, das hauseigene Betriebsrestaurant, in dem täglich frisch gekocht wird, Parkplatzmöglichkeiten, Flexibilität in der Arbeitszeitgestaltung, die Möglichkeit zum Teil im Homeoffice zu arbeiten, sowie die sehr gute öffentliche Anbindung zählen ebenfalls zu unserem hervorragenden Gesamtpaket. Flexibilität im Bewerbungsprozess: Welche Form des Job-Interviews bevorzugen Sie? Wir sind flexibel und passen uns an Ihre Bedürfnisse an: Präsentieren Sie sich entweder über Video-Call oder lernen Sie uns und den Job persönlich vor Ort in unserem Office näher kennen. Lassen Sie uns gemeinsam Ihren Bewerbungsprozess individuell und für Sie optimal gestalten! Gehalt: Das Bruttogehalt liegt je nach Qualifikation und Erfahrung zwischen 3.900 und 5.000 EUR monatlich (14x). Beschäftigungsverhältnis: Anstellung Beschäftigungsausmaß: Vollzeit Dienstort: Wien
+Kontinuität und Fortschritt: Sie werden Teil einer bekannten österreichischen Organisation in zentraler Lage in Wien, in der mehr als 800 Mitarbeiterinnen und Mitarbeiter tätig sind.
+Kontinuität und Fortschritt:
+Data-Management-Pionier-Arbeit: Es erwartet Sie ein modernes Data-Management-Umfeld und die Zusammenarbeit mit Data Engineers, Data Scientists und Data Visualization Engineers, wodurch Sie sich mit Ihrer Erfahrung in einem professionellen Umfeld einbringen und in Ihrem Bereich federführend Data-Management-Verantwortung übernehmen.
+Data-Management-Pionier-Arbeit:
+Kultur der Vielfalt und Balance : Die hervorragende Unternehmenskultur ist durch ein ausgewogenes Maß an Kontinuität und Innovation, Loyalität und Qualitätsbewusstsein und hohe Zuverlässigkeit geprägt.
+Kultur der Vielfalt und Balance :
+Eigenständig stark, im Team unschlagbar: Die Teamkultur spiegelt die Unternehmenskultur wider und wir pflegen einen eigenverantwortlichen, teamorientierten und lösungsorientierten Arbeitsstil aus.
+Eigenständig stark, im Team unschlagbar:
+Entwicklungsperspektiven: Wir orientieren uns an langfristigen Vertragsbeziehungen und bieten neben einem professionellen Onboarding-Phase ein umfassendes Aus- und Weiterbildungsangebot, damit wir uns gemeinsam entwickeln können.
+Entwicklungsperspektiven:
+Rundum gut versorgt: Diverse Gesundheitsmaßnahmen, das hauseigene Betriebsrestaurant, in dem täglich frisch gekocht wird, Parkplatzmöglichkeiten, Flexibilität in der Arbeitszeitgestaltung, die Möglichkeit zum Teil im Homeoffice zu arbeiten, sowie die sehr gute öffentliche Anbindung zählen ebenfalls zu unserem hervorragenden Gesamtpaket.
+Rundum gut versorgt:
+Flexibilität im Bewerbungsprozess: Welche Form des Job-Interviews bevorzugen Sie? Wir sind flexibel und passen uns an Ihre Bedürfnisse an: Präsentieren Sie sich entweder über Video-Call oder lernen Sie uns und den Job persönlich vor Ort in unserem Office näher kennen. Lassen Sie uns gemeinsam Ihren Bewerbungsprozess individuell und für Sie optimal gestalten!
+Flexibilität im Bewerbungsprozess:
+Video-Call
+persönlich vor Ort
+Gehalt: Das Bruttogehalt liegt je nach Qualifikation und Erfahrung zwischen 3.900 und 5.000 EUR monatlich (14x).
+Gehalt:
+Beschäftigungsverhältnis: Anstellung
+Beschäftigungsverhältnis:
+Beschäftigungsausmaß: Vollzeit
+Beschäftigungsausmaß:
+Dienstort: Wien
+Dienstort:
+TECHSEARCH ist ein Unternehmen, das Chancengleichheit und Gleichbehandlung fördert. Unter dem Grundsatz ""Talent primär - Gender egal"" wenden wir uns an vielfältige Persönlichkeiten, egal welcher ethnischen Zugehörigkeit, welchen Alters, welchen Geschlechts, welcher sexuellen Orientierung und welcher Religion oder Weltanschauung.
+Qualifikationen
+Abgeschlossene technische Ausbildung an einer HTL, FH oder Universität Ausbildungsschwerpunkt im Bereich IT, SW Entwicklung, SW Engineering, Datenbankentwicklung, Data Engineering, Data Visualization, Data Science o.Ä. Breites Datenbanken-Know-how und einschlägige Erfahrung im Einsatz von relationalen Datenbanken, v.a. MS SQL Server, PostgreSQL Sehr gute SQL-Kenntnisse und Erfahrung in der Entwicklung von SQL-Abfragen Fundierte ETL-/ ELT-Know-how und Erfahrung in der Umsetzung von ETL-Prozessen Breites IT-Know-how rund um Cloud-Technologien und versiert im Umgang mit Azure Hohes Interesse und Idealerweise Erfahrung in der Erhebung und Analyse von Anforderungen für Datenauswertungen Gute Kenntnisse und Erfahrung in der Entwicklung von Reports sowie Interesse an der Reportautomatisierung und Visualisierung bzw. im Umgang mit Power BI Python-Know-how von Vorteil Sehr gute Deutschkenntnisse und gute Englischkenntnisse
+Abgeschlossene technische Ausbildung an einer HTL, FH oder Universität
+Ausbildungsschwerpunkt im Bereich IT, SW Entwicklung, SW Engineering, Datenbankentwicklung, Data Engineering, Data Visualization, Data Science o.Ä.
+Breites Datenbanken-Know-how und einschlägige Erfahrung im Einsatz von relationalen Datenbanken, v.a. MS SQL Server, PostgreSQL
+Sehr gute SQL-Kenntnisse und Erfahrung in der Entwicklung von SQL-Abfragen
+Fundierte ETL-/ ELT-Know-how und Erfahrung in der Umsetzung von ETL-Prozessen
+Breites IT-Know-how rund um Cloud-Technologien und versiert im Umgang mit Azure
+Hohes Interesse und Idealerweise Erfahrung in der Erhebung und Analyse von Anforderungen für Datenauswertungen
+Gute Kenntnisse und Erfahrung in der Entwicklung von Reports sowie Interesse an der Reportautomatisierung und Visualisierung bzw. im Umgang mit Power BI
+Python-Know-how von Vorteil
+Sehr gute Deutschkenntnisse und gute Englischkenntnisse
+Persönlich sind Sie
+kommunikativ, aktiv und selbständig, wodurch es Ihnen leichtfällt mit verschiedenen fachlichen und technischen Expertinnen und Experten zusammenzuarbeiten initiativ, verantwortungsvoll und lernbereit, um Pionierarbeit in Ihrem Bereich zu leisten, Neues zu gestalten und mit den Aufgaben zu wachsen lösungsorientiert und empathisch, wodurch es Ihnen gelingt die Anforderungen der Stakeholder zu verstehen und Ergebnisse zu liefern loyal und an einer langfristigen Karriere interessiert, um sich im Team und mit den zukünftigen Anforderungen zu entwickeln
+kommunikativ, aktiv und selbständig, wodurch es Ihnen leichtfällt mit verschiedenen fachlichen und technischen Expertinnen und Experten zusammenzuarbeiten
+kommunikativ
+aktiv
+selbständig,
+initiativ, verantwortungsvoll und lernbereit, um Pionierarbeit in Ihrem Bereich zu leisten, Neues zu gestalten und mit den Aufgaben zu wachsen
+initiativ, verantwortungsvoll
+lernbereit,
+lösungsorientiert und empathisch, wodurch es Ihnen gelingt die Anforderungen der Stakeholder zu verstehen und Ergebnisse zu liefern
+lösungsorientiert
+empathisch
+loyal und an einer langfristigen Karriere interessiert, um sich im Team und mit den zukünftigen Anforderungen zu entwickeln
+loyal
+an einer langfristigen Karriere interessiert,
+(c) TECHSEARCH
+Opernring 1/E/636  1010 Wien
+
++43 680 40 66 963
+{KONTAKT}  {IMPRESSUM}
+{KONTAKT}
+
+{IMPRESSUM}
+{DATENSCHUTZERKLÄRUNG}
+{DATENSCHUTZERKLÄRUNG}"
+Data Engineer (all genders) – Focus on Solutions,Vienna Insurance Group AG Wiener Versicherung Gruppe,['Wien'],Vollzeit,Homeoffice,"ab 3.138,19 € monatlich",https://www.karriere.at/jobs/7294570,"WORKING IN THE MIDDLE OF VIENNA:  EXCHANGING ACROSS EUROPE
+
+EXCHANGING ACROSS EUROPE
+Data Engineer (all genders) - Focus on Solutions
+Vienna experienced full-time all genders immediate start Group Finance & Regulatory Reporting
+Vienna
+experienced
+full-time
+all genders
+immediate start
+Group Finance & Regulatory Reporting
+Your Tasks
+Further development and refinement of our SAP BW-based reporting solutions to meet changing business requirements Customisation and maintenance of our established database solutions in cooperation with our internal IT department Development and implementation of new methods and tools to optimise existing and new reporting solutions and future financial processes Development of new functionalities for internal reporting solutions Creating detailed dashboards and applications for application-specific business requirements Future-proofing our toolbox by proactively looking for improvements and establishing new technologies Collaborating with other departments within VIG to optimise processes and ensure effective use of data
+Further development and refinement of our SAP BW-based reporting solutions to meet changing business requirements
+Customisation and maintenance of our established database solutions in cooperation with our internal IT department
+Development and implementation of new methods and tools to optimise existing and new reporting solutions and future financial processes
+Development of new functionalities for internal reporting solutions
+Creating detailed dashboards and applications for application-specific business requirements
+Future-proofing our toolbox by proactively looking for improvements and establishing new technologies
+Collaborating with other departments within VIG to optimise processes and ensure effective use of data
+MORE ABOUT THE DEPARTMENT
+MORE ABOUT THE DEPARTMENT
+Your Benefits
+37,5 Working Hours, Flexi-Time & Home Office Learning & Development Life Balance & Family Benefits Modern Workspaces & Canteen Health & Sports Offers  More Benefits
+37,5 Working Hours, Flexi-Time & Home Office
+Learning & Development
+Life Balance & Family Benefits
+Modern Workspaces & Canteen
+Health & Sports Offers
+More Benefits
+More Benefits
+Your Profile
+University Degree in data science, economics, finance, mathematics or a similar field Mastery of analytical software such as R, Power BI, SAC or similar tools Experience with programming (R, VBA, Python, Bash, etc.) Experience with database solutions (SAP, Oracle, MS SQL, etc.) is an advantage Strong analytical mindset and problem-solving orientation Good communication skills and the ability to work in a team Work experience in the financial industry is an advantage Confident and fluent in written and spoken English
+University Degree in data science, economics, finance, mathematics or a similar field
+Mastery of analytical software such as R, Power BI, SAC or similar tools
+Experience with programming (R, VBA, Python, Bash, etc.)
+Experience with database solutions (SAP, Oracle, MS SQL, etc.) is an advantage
+Strong analytical mindset and problem-solving orientation
+Good communication skills and the ability to work in a team
+Work experience in the financial industry is an advantage
+Confident and fluent in written and spoken English
+Based on the legal requirements, we inform about the monthly minimum salary according to the collective agreement of EUR 3 138.19 gross on the basis of full-time employment (37.5 hours / week). Of course, the remuneration package is market-compliant. It is important to us that your salary is based on your qualifications and experience, therefore we will discuss the salary together in a personal interview.
+Vienna Insurance Group is the leading insurance group in Central and Eastern Europe (CEE). With around 30,000 employees in more than 50 insurance companies and pension funds in 30 countries, we work for around 32 million customers every day. We do this successfully, which is why VIG Group has an ""A+"" rating with a stable outlook. We are characterized by commitment, competence and service orientation on the one hand, and a diverse team with different talents and exciting areas of work in an inclusive environment on the other. We stand for diversity and respect, which is why we see it as enriching to employ people from different backgrounds, ages, genders, sexual orientations, religions and abilities. Become part of our diversity!
+leading insurance group
+our diversity
+Contact
+I am looking forward to your application and I am at your disposal for questions.
+Krisztina Szabo  +43 50 390-20251  krisztina.szabo@vig.com
+
+
+Apply now
+Apply now"
+Data-Engineer Microsoft-SQL-Server (m/w/d),Österreichischer Sparkassenverband,['Wien'],Vollzeit,Homeoffice,ab 50.000 € jährlich,https://www.karriere.at/jobs/7297591,"Für den Österreichischen Sparkassenverband, die Interessenvertretung der AT-Sparkassengruppe, zu arbeiten, bedeutet ein gemeinsames Ziel vor Augen zu haben und für gemeinsame Werte zu stehen. Wir begegnen einander mit Respekt, Empathie und Verständnis für die unterschiedlichsten Lebensgeschichten.
+Österreichischen Sparkassenverband
+Das Kompetenzzentrum Informationsmanagement beschäftigt derzeit 12 MitarbeiterInnen und ist mit seinem Sparkassen-Informationssystem (SIS) die zentrale Anlaufstelle, wenn es um die digitale und rasche Datenaufbereitung und Datenbereitstellung aus allen Geschäftsbereichen von Erste Bank und Sparkassen geht.
+Kompetenzzentrum Informationsmanagement
+Zur Verstärkung unseres Teams suchen wir zum baldigen Eintritt für eine Vollzeitbeschäftigung einen
+Data-Engineer Microsoft-SQL-Server (m/w/d)
+Ihre Aufgaben:
+Aufbau und Wartung von ETL-Strecken mit SSIS - Paketen und Stored Procedures Erstellung und Durchführung von Auswertungen mit SQL (Ad-Hoc und gesteuert) Datenbankdesign (Erstellung und Wartung von Tabellen) Aktive Mitarbeit in Projekten zu Neueinführungen und Weiterentwicklungen Data-Discovery und Datenqualitätsanalysen Mitarbeit bei Design und Befüllung von OLAP-Würfeln (INFOR) Abstimmung von Anforderungen mit den Fachbereichen
+Aufbau und Wartung von ETL-Strecken mit SSIS - Paketen und Stored Procedures
+Erstellung und Durchführung von Auswertungen mit SQL (Ad-Hoc und gesteuert)
+Datenbankdesign (Erstellung und Wartung von Tabellen)
+Aktive Mitarbeit in Projekten zu Neueinführungen und Weiterentwicklungen
+Data-Discovery und Datenqualitätsanalysen
+Mitarbeit bei Design und Befüllung von OLAP-Würfeln (INFOR)
+Abstimmung von Anforderungen mit den Fachbereichen
+Ihr Background:
+Fundierte Kenntnisse in SQL-Programmierung (T-SQL) und SSIS erforderlich Gute Deutsch- und Englischkenntnisse erforderlich Erfahrung in der Konzeptionierung von Datenbankumgebungen wünschenswert Kenntnisse im Umgang mit der Microsoft-Office-Produktpalette (Excel, Access,...) Basiswissen über das Geschäftsmodell von Banken und ihren Produkten vorteilhaft Erfahrung mit Powershell-Scripting und einfacher Visual C# - Programmierung Mehrjährige, einschlägige Berufserfahrung Begeisterung für die eigenständige, kreative Bearbeitung von neuen Themen
+Fundierte Kenntnisse in SQL-Programmierung (T-SQL) und SSIS erforderlich
+Gute Deutsch- und Englischkenntnisse erforderlich
+Erfahrung in der Konzeptionierung von Datenbankumgebungen wünschenswert
+Kenntnisse im Umgang mit der Microsoft-Office-Produktpalette (Excel, Access,...)
+Basiswissen über das Geschäftsmodell von Banken und ihren Produkten vorteilhaft
+Erfahrung mit Powershell-Scripting und einfacher Visual C# - Programmierung
+Mehrjährige, einschlägige Berufserfahrung
+Begeisterung für die eigenständige, kreative Bearbeitung von neuen Themen
+Unser Angebot
+Modernes und topausgestattetes Arbeitsumfeld am Erste Campus Wien Möglichkeit der Arbeit in Homeoffice nach konkreter Vereinbarung Ein kollegiales Arbeitsklima, offene Information und Kommunikation Eine schlanke Organisationsstruktur mit kurzen Entscheidungswegen Fachliche Weiterbildungsmöglichkeiten Für diese Position ist ein überkollektivvertraglicher Jahresbruttobezug ab EUR 50.000,-- vorgesehen, der abhängig von der individuellen Qualifikation und Berufserfahrung noch marktkonform angepasst werden kann.
+Modernes und topausgestattetes Arbeitsumfeld am Erste Campus Wien
+Möglichkeit der Arbeit in Homeoffice nach konkreter Vereinbarung
+Ein kollegiales Arbeitsklima, offene Information und Kommunikation
+Eine schlanke Organisationsstruktur mit kurzen Entscheidungswegen
+Fachliche Weiterbildungsmöglichkeiten
+Für diese Position ist ein überkollektivvertraglicher Jahresbruttobezug ab EUR 50.000,-- vorgesehen, der abhängig von der individuellen Qualifikation und Berufserfahrung noch marktkonform angepasst werden kann.
+Wir sehen in der Diversität unserer MitarbeiterInnen einen Schlüssel für Innovation sowie Exzellenz und sind stolz darauf, allen die gleichen Chancen zu bieten.
+Diversität
+Wir freuen uns über Ihre Bewerbung. Schicken Sie uns bitte Ihre Unterlagen inklusive Foto, Gehaltsvorstellung und dem möglichen Eintrittstermin per smart bewerben an Herrn Mario Sieberer.
+smart bewerben
+Weitere Informationen über den Österreichischen Sparkassenverband finden Sie unter www.sparkassenverband.at
+www.sparkassenverband.at"
+Data Engineer (all genders) – Focus on Configuration,Vienna Insurance Group AG Wiener Versicherung Gruppe,['Wien'],Vollzeit,Homeoffice,"ab 3.138,19 € monatlich",https://www.karriere.at/jobs/7294567,"WORKING IN THE MIDDLE OF VIENNA:  EXCHANGING ACROSS EUROPE
+
+EXCHANGING ACROSS EUROPE
+Data Engineer (all genders) - Focus on Configuration
+Vienna experienced full-time all genders immediate start Group Finance & Regulatory Reporting
+Vienna
+experienced
+full-time
+all genders
+immediate start
+Group Finance & Regulatory Reporting
+Your Tasks
+Customisation and maintenance of our established database solutions in cooperation with our internal IT department Developing and refining our reporting solutions to meet changing business requirements Managing and validating data to ensure accuracy and reliability Developing and implementing new methods and tools to optimise existing and future financial processes Creating detailed dashboards, reports, data views and analyses for various reporting purposes Future-proofing our toolbox by proactively looking for improvements and anticipating needs Collaborating with other departments within VIG to optimise processes and ensure effective use of data
+Customisation and maintenance of our established database solutions in cooperation with our internal IT department
+Developing and refining our reporting solutions to meet changing business requirements
+Managing and validating data to ensure accuracy and reliability
+Developing and implementing new methods and tools to optimise existing and future financial processes
+Creating detailed dashboards, reports, data views and analyses for various reporting purposes
+Future-proofing our toolbox by proactively looking for improvements and anticipating needs
+Collaborating with other departments within VIG to optimise processes and ensure effective use of data
+MORE ABOUT THE DEPARTMENT
+MORE ABOUT THE DEPARTMENT
+Your Benefits
+37,5 Working Hours, Flexi-Time & Home Office Learning & Development Life Balance & Family Benefits Modern Workspaces & Canteen Health & Sports Offers  More Benefits
+37,5 Working Hours, Flexi-Time & Home Office
+Learning & Development
+Life Balance & Family Benefits
+Modern Workspaces & Canteen
+Health & Sports Offers
+More Benefits
+More Benefits
+Your Profile
+University Degree in data science, economics, finance, mathematics or a similar field Proficiency in analytical software such as Excel, R, Power BI or similar tools Experience with database solutions (SAP, Oracle, MS SQL, etc.) is an advantage but not an exclusion criterion Initial experience with programming (VBA, Powershell, Python, etc.) is an advantage, as smaller programming tasks are regularly required Strong analytical mindset and problem-solving orientation Good communication skills and the ability to work in a team Confident and fluent in written and spoken English
+University Degree in data science, economics, finance, mathematics or a similar field
+Proficiency in analytical software such as Excel, R, Power BI or similar tools
+Experience with database solutions (SAP, Oracle, MS SQL, etc.) is an advantage but not an exclusion criterion
+Initial experience with programming (VBA, Powershell, Python, etc.) is an advantage, as smaller programming tasks are regularly required
+Strong analytical mindset and problem-solving orientation
+Good communication skills and the ability to work in a team
+Confident and fluent in written and spoken English
+Based on the legal requirements, we inform about the monthly minimum salary according to the collective agreement of EUR 3 138.19 gross on the basis of full-time employment (37.5 hours / week). Of course, the remuneration package is market-compliant. It is important to us that your salary is based on your qualifications and experience, therefore we will discuss the salary together in a personal interview.
+Vienna Insurance Group is the leading insurance group in Central and Eastern Europe (CEE). With around 30,000 employees in more than 50 insurance companies and pension funds in 30 countries, we work for around 32 million customers every day. We do this successfully, which is why VIG Group has an ""A+"" rating with a stable outlook. We are characterized by commitment, competence and service orientation on the one hand, and a diverse team with different talents and exciting areas of work in an inclusive environment on the other. We stand for diversity and respect, which is why we see it as enriching to employ people from different backgrounds, ages, genders, sexual orientations, religions and abilities. Become part of our diversity!
+leading insurance group
+our diversity
+Contact
+I am looking forward to your application and I am at your disposal for questions.
+Krisztina Szabo  +43 50 390-20251  krisztina.szabo@vig.com
+
+
+Apply now
+Apply now"
+Data Engineer - SAP and Azure Analytics Solutions (all genders),RHI Magnesita GmbH,[],Vollzeit,Homeoffice,ab 60.000 € jährlich,https://www.karriere.at/jobs/7250557,"Data Engineer - SAP and Azure Analytics Solutions (all genders)
+Full-time
+Full-time
+Are you ready for new challenges in an international and innovation-driven environment where you can make a difference? Apply and join our team, be curious, learn, grow, and develop your career together with us. We promise: you are in for a special ride!
+The location of the role is in Vienna
+The location of the role is in Vienna
+About the job
+About the job
+As a Data Engineer at RHI Magnesita, you will be part of a global team of data engineers and data experts who report to the Head of Data & Analytics Delivery. Your focus lies in designing and implementing comprehensive analytics solutions, spanning from data extraction and ingestion to transformation and consumption. You will work closely with cross-functional teams to leverage data from SAP S/4HANA systems and utilize cloud-based technologies including Azure Data Lake and Databricks to support business decisions. Moreover, you will employ agile techniques and Scrum methodology to manage projects efficiently and ensure timely delivery of data solutions.
+In addition, your tasks will include
+In addition, your tasks will include
+Extracting data from various SAP source objects (such as CDS views, extractors, tables) with a focus on efficient delta extraction Optimizing data transformation processes to improve performance and scalability Developing SQL databases and other tools necessary for data retrieval and analytics Ensuring best practices and compliance with data governance and security policies Documenting processes and coding consistently and comprehensively
+Extracting data from various SAP source objects (such as CDS views, extractors, tables) with a focus on efficient delta extraction
+Optimizing data transformation processes to improve performance and scalability
+Developing SQL databases and other tools necessary for data retrieval and analytics
+Ensuring best practices and compliance with data governance and security policies
+Documenting processes and coding consistently and comprehensively
+About You
+About You
+You are a strong communicator with a collaborative attitude. With your great enthusiasm and agile mindset, you bring new ideas to the table, not only as an individual but also together with your colleagues. You work well in cross-functional teams and are not afraid to take responsibility and make decisions. With your hands-on mentality, structured approach and analytical skills, you proactively seek to improve the status quo. You see change as something positive, can adapt quickly and you like to courageously help shaping the future of RHI Magnesita.
+What we expect from you in terms of
+What we expect from you in terms of
+Education & Skills
+Education & Skills
+Higher education (or comparable work experience) in Computer Science, Engineering, Information Technology, or related field Profound knowledge of SAP / SAP S/4HANA data structures, data extraction methods and basic overview/understanding of SAP business processes Proficiency in programming languages used in data transformation, particularly SQL
+Higher education (or comparable work experience) in Computer Science, Engineering, Information Technology, or related field
+Profound knowledge of SAP / SAP S/4HANA data structures, data extraction methods and basic overview/understanding of SAP business processes
+Proficiency in programming languages used in data transformation, particularly SQL
+Languages
+Languages
+English - Proficient/Fluent Any other language will be considered an asset
+English - Proficient/Fluent
+Any other language will be considered an asset
+Work Experience
+Work Experience
+A couple years of experience in data engineering, ideally based on SAP source systems Experience with Azure cloud services, particularly Azure Data Lake and Databricks Solid experience in developing and managing SQL databases
+A couple years of experience in data engineering, ideally based on SAP source systems
+Experience with Azure cloud services, particularly Azure Data Lake and Databricks
+Solid experience in developing and managing SQL databases
+Why you should work for RHI Magnesita
+Why you should work for RHI Magnesita
+You will perform in a customer focused environment. We live innovation and appreciate an open and pragmatic way of working. From our leaders we expect to drive our further transformation, to engage our people and to give direction. RHI Magnesita is a company where you can be yourself and where not only your resume and experience, but also your personality counts. We aim for global consistency in compensation policies, but also consider local common practices. RHI Magnesita is committed to support its employees through various means to enable the best possible performance.
+We offer
+We offer
+Attractive remuneration packages including global bonus programme Local benefits such as public transport annual pass (Wiener Linien), our own RHI Magnesite Café on site and daily meal allowance for numerous eateries (Euro Plaza) A variety of health offers (platform for mental & physical health, sponsoring of sports events etc.) and our own Corporate Benefits platform RHIM Academy for your ongoing learning & development, incl. full LinkedIn Learning catalogue Possibility of up to 50% home office incl. allowance Flexible and trust-based working time
+Attractive remuneration packages including global bonus programme
+Local benefits such as public transport annual pass (Wiener Linien), our own RHI Magnesite Café on site and daily meal allowance for numerous eateries (Euro Plaza)
+A variety of health offers (platform for mental & physical health, sponsoring of sports events etc.) and our own Corporate Benefits platform
+RHIM Academy for your ongoing learning & development, incl. full LinkedIn Learning catalogue
+Possibility of up to 50% home office incl. allowance
+Flexible and trust-based working time
+The annual gross salary for this position will start from EUR 60.000,00 on a full-time basis, depending on your qualifications and experience, as well as the amount of overtime and your level of seniority. We will make sure to offer you a competitive salary package that values your relevant background and that's in line with market values.
+Sounds like you?
+Sounds like you?
+At RHI Magnesita everyone is welcome and encouraged to apply. We evaluate applications based on required qualifications and regardless of gender identity, nationality, ethnic origin, religion, disability, age, sexual orientation, marital or partnership status. At RHI Magnesita we appreciate the value of diverse teams.
+We kindly ask you to submit your application online and in English. Due to data privacy reasons, applications via e-mail cannot be taken into consideration. Should you have any questions about this position, please contact us at: talent.europe@rhimagnesita.com
+online and in English
+talent.europe@rhimagnesita.com
+Agencies may only submit candidates for positions for which they have been invited to do so by the Head of Talent Acquisition Europe. All unsolicited resumes sent to us will be considered property of RHI Magnesita and our company will not be held liable to pay a placement fee.
+Agencies may only submit candidates for positions for which they have been invited to do so by the Head of Talent Acquisition Europe. All unsolicited resumes sent to us will be considered property of RHI Magnesita and our company will not be held liable to pay a placement fee.
+About RHI Magnesita
+About RHI Magnesita
+We are the acknowledged technology leader in the refractory industry. Our company is defined by people. We are committed to diversity and know that multiple approaches, perspectives and backgrounds fuel creativity and innovation. It is our aspiration to build a workplace culture where everyone feels valued, engages, and can enjoy a truly inclusive environment and the diverse voices of our employees are heard. We foster a collaborative culture that cherishes ideas and determination to add value for our customers. Our leadership style encourages open-mindedness, reliability, pragmatism, and innovation.
+Find & follow us: www.rhimagnesita.com
+www.rhimagnesita.com
+LinkedIn, Facebook, Instagram, YouTube
+LinkedIn
+Facebook
+Instagram
+YouTube
+Jetzt bewerben
+Jetzt bewerben"
+FH-Praktikum Data Engineer/Schwerpunkt Datawarehouse,OeKB Gruppe,['Wien'],,Homeoffice,ab 2.200 € monatlich,https://www.karriere.at/jobs/7329550,"FH-Praktikum Data Engineer/Schwerpunkt Datawarehouse
+Du interessierst dich für Business Intelligence? Cubes sind kein Fremdwort für dich? Du hast ein Faible für multidimensionale Daten und komplexe Strukturen?  Dann bewirb dich als FH-Pflichtpraktikant/Pflichtpraktikantin (m/w/d) im Bereich Finance.
+
+Über die OeKB
+Über die OeKB
+Eine nachhaltige Wirtschaft, die Österreichs Wohlstand sichert - das ist unser Ziel. Als Finanzdienstleisterin mit öffentlichem Auftrag bieten wir Services für die Exportwirtschaft und den Tourismus, den Kapital- und Energiemarkt sowie Entwicklungsfinanzierung. Mit unserem breiten Produktportfolio stärken wir die Wettbewerbsfähigkeit unseres Kundenkreises. Dabei achten wir darauf, dass sich unsere Aktivitäten positiv auf Wirtschaft, Gesellschaft und Umwelt auswirken.
+Deine Aufgaben
+Du...
+bist Teil des jungen agilen Teams der Gruppe Controlling im Business Intelligence-Umfeld. wirkst bei der Neugestaltung und Weiterentwicklung unseres Data Warehouses mit. gestaltest gemeinsam mit deinem Team die vielschichtige Datenlandschaft der OeKB. unterstützt uns bei der Erstellung von Reports, Ad hoc-Auswertungen und beim Aufbau des Management-Cockpits. hilfst bei der Errichtung von Datenlade- und Transformationsprozessen (SQL Server Integration Services). bist am Aufbau und der Betreuung von Datenbank-Schnittstellen für Import und Export beteiligt.
+bist Teil des jungen agilen Teams der Gruppe Controlling im Business Intelligence-Umfeld.
+wirkst bei der Neugestaltung und Weiterentwicklung unseres Data Warehouses mit.
+gestaltest gemeinsam mit deinem Team die vielschichtige Datenlandschaft der OeKB.
+unterstützt uns bei der Erstellung von Reports, Ad hoc-Auswertungen und beim Aufbau des Management-Cockpits.
+hilfst bei der Errichtung von Datenlade- und Transformationsprozessen (SQL Server Integration Services).
+bist am Aufbau und der Betreuung von Datenbank-Schnittstellen für Import und Export beteiligt.
+Dein Hintergrund
+laufendes FH-Studium mit IT-Schwerpunkt (z.B. Wirtschaftsinformatik, Data Science, Informatik, …) (erste) Arbeitserfahrung (idealerweise Projektarbeit) (erste) Erfahrungen in SQL Teamfähigkeit und Freude an selbstständigem Arbeiten analytisches und lösungsorientiertes Denken
+laufendes FH-Studium mit IT-Schwerpunkt (z.B. Wirtschaftsinformatik, Data Science, Informatik, …)
+(erste) Arbeitserfahrung (idealerweise Projektarbeit)
+(erste) Erfahrungen in SQL
+Teamfähigkeit und Freude an selbstständigem Arbeiten
+analytisches und lösungsorientiertes Denken
+Unser Angebot
+Mit diesem Praktikum kannst du deine Ausbildung ergänzen und dein Wissen in die Praxis umsetzen. Es ermöglicht dir Einblicke in die Berufswelt und wertvolle Erfahrungen für deine weitere Karriere.
+Flexible Arbeitszeiten: Gleitzeitregelung ohne Kernzeit und Home-Office Moderner Arbeitsplatz: Wir bieten eine gut ausgestattete Bürowelt mit bester öffentlicher Anbindung im 1. Bezirk in Wien. Sinnstiftende Aufgaben: Die OeKB leistet einen relevanten Beitrag zum Wohlergehen von Wirtschaft, Gesellschaft und Umwelt. Wertbasierte Unternehmenskultur: Unsere Kernwerte sind Verantwortung, Vertrauen, Leidenschaft, Neugierde und Augenhöhe. Diversität und Inklusion: Bei uns haben alle das Recht, so zu sein, wie sie sind und werden genauso respektiert. Gleichberechtigung: Wir legen Wert auf ein ausgewogenes Geschlechterverhältnis und die Stärkung von Frauen in Führungspositionen.
+Flexible Arbeitszeiten: Gleitzeitregelung ohne Kernzeit und Home-Office
+Flexible Arbeitszeiten:
+Moderner Arbeitsplatz: Wir bieten eine gut ausgestattete Bürowelt mit bester öffentlicher Anbindung im 1. Bezirk in Wien.
+Moderner Arbeitsplatz:
+Sinnstiftende Aufgaben: Die OeKB leistet einen relevanten Beitrag zum Wohlergehen von Wirtschaft, Gesellschaft und Umwelt.
+Sinnstiftende Aufgaben:
+Wertbasierte Unternehmenskultur: Unsere Kernwerte sind Verantwortung, Vertrauen, Leidenschaft, Neugierde und Augenhöhe.
+Wertbasierte Unternehmenskultur:
+Diversität und Inklusion: Bei uns haben alle das Recht, so zu sein, wie sie sind und werden genauso respektiert.
+Diversität und Inklusion:
+Gleichberechtigung: Wir legen Wert auf ein ausgewogenes Geschlechterverhältnis und die Stärkung von Frauen in Führungspositionen.
+Gleichberechtigung:
+Bezahlung: Du erhältst ein monatliches Praktikumsentgelt von 2.200,- Euro brutto/Monat (VZ-Basis, zuzgl. Sonderzahlungen).
+Bezahlung:
+Dauer & Arbeitszeit: idealerweise 6 Monate Vollzeit (38,5 h/Woche) ab März 2025.
+Dauer & Arbeitszeit:
+Bewerbungen von Menschen mit Behinderungen sind uns sehr willkommen.
+Bewerbungen von Menschen mit Behinderungen sind uns sehr willkommen.
+Klingt interessant?
+Bewirb dich jetzt, wenn du Einblicke in eine Finanz- und Risikoarchitektur einer Spezialbank bekommen möchtest.  Kontakt: Christina Springer, Tel.: +43153127-2242
+
+Jetzt Bewerben
+Jetzt Bewerben"
+Data Engineering Consultant (w/m/x),Avanade Österreich,"['Innsbruck', 'Linz']",Vollzeit,Homeoffice,43.078 € – 71.848 € jährlich,https://www.karriere.at/jobs/7314214,"Together we do what matters
+do what matters
+Data Engineering Consultant (w/m/x) - Austria
+Dienstort: Innsbruck, Linz, Vienna Arbeitsausmaß: Vollzeit Start: ab sofort Unbefristet Homeoffice
+Dienstort: Innsbruck, Linz, Vienna
+Dienstort:
+Arbeitsausmaß: Vollzeit
+Arbeitsausmaß:
+Start: ab sofort
+Start:
+Unbefristet
+Homeoffice
+Wer sind wir?
+Avanade ist ein weltweit führender Anbieter von digitalen und Cloud-Diensten, Business Solutions und designorientierten Anwendungen. Als Joint Venture von Microsoft und Accenture sind wir das größte Beratungsunternehmen für Microsoft-Technologien. Wir unterstützen unsere Kunden in Cloud, Modern Workplace, Business Applications, Data & AI und Security und legen Wert auf unsere #PeopleFirst Mentalität.
+Zwischen Data Analysten über Data Engineers bis hin zu IoT- und AI-Experten gibt es einerseits viele Überschneidungen aber auch viele Alleinstellungsmerkmale. Wir verstehen uns als Schmelztiegel um diese Expertisen in einem Team zusammen zu bringen und uns gegenseitig mit innovativen Entwicklungen auf den neuesten Stand zu bringen.
+Deine Aufgaben bei Avanade
+Unterstützung bei der Konzeption und Implementierung von Data-Platform-Architekturen in Azure und On-Premise sowie bei der Datenintegration Zusammenarbeit mit Kunden und Team: Remote oder Onsite in allen Phasen von der Anforderungsanalyse bis zur Dokumentation Arbeit in Projekten mit Technologien wie DevOps, SQL, Python und mehr Aktive Beteiligung an der Community: Teilen von Projekterfahrungen und Wissen durch den gegenseitigen Austausch mit Kolleg:innen
+Unterstützung bei der Konzeption und Implementierung von Data-Platform-Architekturen in Azure und On-Premise sowie bei der Datenintegration
+Zusammenarbeit mit Kunden und Team: Remote oder Onsite in allen Phasen von der Anforderungsanalyse bis zur Dokumentation
+Arbeit in Projekten mit Technologien wie DevOps, SQL, Python und mehr
+Aktive Beteiligung an der Community: Teilen von Projekterfahrungen und Wissen durch den gegenseitigen Austausch mit Kolleg:innen
+Deine Skills und Erfahrungen
+Erfahrung als Data Engineer in den Branchen Automotive, Life Science, Finance oder Manufacturing ist erforderlich. Verständnis für betriebswirtschaftliche Prozesse und komplexe IT-Lösungen, vorzugsweise im Microsoft-Technologieumfeld. Fundierte Kenntnisse und Erfahrung im Requirements Engineering sind vorhanden. Vertrautheit mit der Azure-Plattform und Services wie Azure Data Factory, Data Lake, SQL, Databricks, und IoT Hub.
+Erfahrung als Data Engineer in den Branchen Automotive, Life Science, Finance oder Manufacturing ist erforderlich.
+Verständnis für betriebswirtschaftliche Prozesse und komplexe IT-Lösungen, vorzugsweise im Microsoft-Technologieumfeld.
+Fundierte Kenntnisse und Erfahrung im Requirements Engineering sind vorhanden.
+Vertrautheit mit der Azure-Plattform und Services wie Azure Data Factory, Data Lake, SQL, Databricks, und IoT Hub.
+Über Dich
+Analytisch-konzeptionelles Denkvermögen und Problemlösungskompetenz zeichnen dich aus. Eine schnelle Auffassungsgabe und die klare Darstellung komplexer Sachverhalte gehören zu deinen Stärken. Du verfügst über ausgezeichnete Präsentationsfähigkeiten und trittst professionell sowie selbstsicher auf. Du bist ein ausgewiesener Teamplayer und kommunizierst souverän & fließend in Deutsch (Min. Level B2/C1) und Englisch.
+Analytisch-konzeptionelles Denkvermögen und Problemlösungskompetenz zeichnen dich aus.
+Eine schnelle Auffassungsgabe und die klare Darstellung komplexer Sachverhalte gehören zu deinen Stärken.
+Du verfügst über ausgezeichnete Präsentationsfähigkeiten und trittst professionell sowie selbstsicher auf.
+Du bist ein ausgewiesener Teamplayer und kommunizierst souverän & fließend in Deutsch (Min. Level B2/C1) und Englisch.
+Was bieten wir Dir?
+Vertrauen, Verantwortung und Wertschätzung  Wir als Avanade sind ein großes, internationales Unternehmen - dennoch wollen wir den Unternehmergeist eines Start-ups beibehalten. Jedes Mitglied bei Avanade wird gleich wertgeschätzt und respektiert. Daher ist es uns wichtig, dass Du auch sofort das Vertrauen erhältst, Verantwortung zu übernehmen innerhalb unseres großen Projektportfolios mit Kolleg:innen, die einander wertschätzen. Umfassendes Onboarding  Uns ist es sehr wichtig, dass Du dich sofort wohl und willkommen fühlst. Daher gibt es bei uns nicht nur eine umfassende Onboarding-Phase, bei der Du alle relevanten Ansprechpartner:innen kennenlernst, sondern auch ein Mentoringprogramm, bei dem alle New Joiners einen Buddy bekommen, um das Ankommen bei uns zu erleichtern. Career Advisor  Von Tag eins an hast Du einen Mentor an deiner Seite, der dich unterstützt, coacht, vernetzt und dir dabei hilft, deinen Platz und deine Balance bei uns zu finden. Ausstattung  Bei uns bekommst Du fürs Home Office State-of-the-Art Equipment (Laptop, Smartphone inkl. Privater Nutzung). Egal ob Arbeit im modernen Office oder in deinem Home Office - dir soll es bei der technischen Ausstattung an nichts fehlen. Flexible Working  Wir sind flexibel - genauso wie unsere Arbeitszeiten. Das flexible Arbeitszeitmodell mit der Möglichkeit fürs Home Office und eine weltweite Unfallversicherung bieten dir Sicherheit und Balance beim Arbeiten, egal von wo. Weiterbildung  Die Möglichkeit an lokalen und internationalen Führungskräfteprogrammen teilzunehmen eröffnet dir neue Perspektiven, z.B. im Rahmen des Avanade Leadership Program.  Mit der persönlichen MSDN Subscription ink. Azure Kontigent, dem unbegrenzten Zugang zu allen Microsoft- und anderen relevanten Zertifizierungen, unterschiedlichen internen Akademien und einem garantierten Kontingent von 80 Stunden Trainingsbudget pro Jahr bist Du immer up-to-date.
+Vertrauen, Verantwortung und Wertschätzung  Wir als Avanade sind ein großes, internationales Unternehmen - dennoch wollen wir den Unternehmergeist eines Start-ups beibehalten. Jedes Mitglied bei Avanade wird gleich wertgeschätzt und respektiert. Daher ist es uns wichtig, dass Du auch sofort das Vertrauen erhältst, Verantwortung zu übernehmen innerhalb unseres großen Projektportfolios mit Kolleg:innen, die einander wertschätzen.
+Vertrauen, Verantwortung und Wertschätzung
+
+Umfassendes Onboarding  Uns ist es sehr wichtig, dass Du dich sofort wohl und willkommen fühlst. Daher gibt es bei uns nicht nur eine umfassende Onboarding-Phase, bei der Du alle relevanten Ansprechpartner:innen kennenlernst, sondern auch ein Mentoringprogramm, bei dem alle New Joiners einen Buddy bekommen, um das Ankommen bei uns zu erleichtern.
+Umfassendes Onboarding
+
+Career Advisor  Von Tag eins an hast Du einen Mentor an deiner Seite, der dich unterstützt, coacht, vernetzt und dir dabei hilft, deinen Platz und deine Balance bei uns zu finden.
+Career Advisor
+
+Ausstattung  Bei uns bekommst Du fürs Home Office State-of-the-Art Equipment (Laptop, Smartphone inkl. Privater Nutzung). Egal ob Arbeit im modernen Office oder in deinem Home Office - dir soll es bei der technischen Ausstattung an nichts fehlen.
+Ausstattung
+
+Flexible Working  Wir sind flexibel - genauso wie unsere Arbeitszeiten. Das flexible Arbeitszeitmodell mit der Möglichkeit fürs Home Office und eine weltweite Unfallversicherung bieten dir Sicherheit und Balance beim Arbeiten, egal von wo.
+Flexible Working
+
+Weiterbildung  Die Möglichkeit an lokalen und internationalen Führungskräfteprogrammen teilzunehmen eröffnet dir neue Perspektiven, z.B. im Rahmen des Avanade Leadership Program.  Mit der persönlichen MSDN Subscription ink. Azure Kontigent, dem unbegrenzten Zugang zu allen Microsoft- und anderen relevanten Zertifizierungen, unterschiedlichen internen Akademien und einem garantierten Kontingent von 80 Stunden Trainingsbudget pro Jahr bist Du immer up-to-date.
+Weiterbildung
+
+Wir arbeiten stetig an unseren Benefits, die wir hier für dich zusammengefasst haben.
+hier
+Gehaltsspanne
+Klingt interessant?
+Dann bewirb dich jetzt gleich ganz unkompliziert mit deinem CV über unser Online-Portal.  Wir freuen uns darauf, dich persönlich kennenzulernen!
+Online-Portal
+
+Hast Du noch offene Fragen? Dann schreib uns gerne: www.avanade.com/en/contact
+www.avanade.com/en/contact
+Jetzt durchstarten
+Jetzt durchstarten
+Wir glauben daran, dass inklusive und diverse Teams jede Challenge meistern - wer sich Herausforderungen mit Leidenschaft und Mut stellt, ist bei uns genau richtig. Bei uns kannst Du einfach Du sein - unabhängig deiner Herkunft, Nationalität, Glaube, Behinderung, Alter, Familienstand, Partnerschaftsstatus, sexueller Orientierung und deines Geschlechts. Vielfalt in jeder Form ist ein fester Bestandteil der Avanade-Kultur.
+Du möchtest mehr über uns erfahren?
+Dann wirf doch einen Blick auf unseren Being Orange Blog | Leben bei Avanade sowie unseren Videokanal und Podcastkanal, damit Du uns noch besser kennenlernen kannst. Folge uns gerne auf Social Media, um keine Neuigkeiten zu verpassen!
+Being Orange Blog | Leben bei Avanade
+Videokanal
+Podcastkanal
+Facebook |  Instagram |  LinkedIn |  XING
+Facebook
+Instagram
+LinkedIn
+XING
+www.avanade.com
+www.avanade.com"
+Praktikum Applied Intelligence & Data Engineering (all genders),Accenture,['Wien'],,Homeoffice,ab 1.850 € monatlich,https://www.karriere.at/jobs/7234342,"Praktikum Applied Intelligence & Data Engineering (all genders)
+Jobnummer R00001073
+Wien
+Vollzeit
+New Praktikum/Werkstudent
+Du brennst für Data Engineering, Big Data, Business Intelligence und Machine Learning? Du willst die Theorie deines Studiums mit der Praxis bei Accenture verbinden und bei echten Projekten digitale Geschäftsprozesse unserer Kunden unter die Lupe nehmen? Das ist genau dein Ding?
+Dann lebe deine Leidenschaft in einer Position, in der du gemeinsam mit deinem Team Unternehmen dabei unterstützt aus ihren Daten neue, optimierte Geschäftsmodelle zu entwickeln und das Potenzial von Automatisierungs-, Analytics- und KI-Lösungen voll auszuschöpfen.
+Diese Position ist in Voll- und Teilzeit möglich. Darüber hinaus bieten wir Arbeitszeitflexibilität und Homeoffice-Möglichkeiten an.
+Das erwartet dich
+Das erwartet dich
+Genug von der Theorie? Bei uns setzt du deinen analytischen Verstand und dein kreatives Denken gezielt ein, um mit den Datenplattformen der Zukunft die Basis für Innovation und digitale Geschäftsprozesse zu bilden Wähle den Bereich, für den du brennst: Data Engineering, Data Science, Machine Learning, Big Data, Data Warehouse uvm. Du arbeitest in interdisziplinären Projektteams hautnah beim Kunden vor Ort, unterstützt bei der Modellierung komplexer Datenmodelle, konzipierst Präsentationen und Workshops und bist bei der Umsetzung live dabei
+Genug von der Theorie? Bei uns setzt du deinen analytischen Verstand und dein kreatives Denken gezielt ein, um mit den Datenplattformen der Zukunft die Basis für Innovation und digitale Geschäftsprozesse zu bilden
+Wähle den Bereich, für den du brennst: Data Engineering, Data Science, Machine Learning, Big Data, Data Warehouse uvm.
+Du arbeitest in interdisziplinären Projektteams hautnah beim Kunden vor Ort, unterstützt bei der Modellierung komplexer Datenmodelle, konzipierst Präsentationen und Workshops und bist bei der Umsetzung live dabei
+Diese Position ist in Voll- und Teilzeit (ab 30 Stunden/Woche) möglich. Darüber hinaus bieten wir Arbeitszeitflexibilität und Home-Office Möglichkeiten an.
+Voll- und Teilzeit
+Arbeitszeitflexibilität
+Translatable Rich Text
+Darauf freuen wir uns
+Darauf freuen wir uns
+Du befindest dich am Ende deines Bachelor-/Masterstudium im Bereich Mathematik, (Wirtschafts-) Informatik, Physik, Statistik Durch erste Praktika konntest du bereits Erfahrung im Bereich Data Engineering/Integration, Big Data, Business Intelligence oder Machine Learning sammeln Du besitzt mindestens Basis-Know-How in Programmierung (u.a. Java, C#, HTML), Datenmodellierung (u.a. SQL, Pyhton, R), Datenbanken (u.a. MS SQL, Oracle, Postgres), Business Intelligence oder Visualisierung Technology on the Edge weckt dein Interesse und du möchtest ein Praktikum mit einer Dauer von 3 bis 6 Monaten absolvieren Du bist Digital Native, hast einen routinierten Umgang mit MS Office und sprichst fließend Deutsch und Englisch
+Du befindest dich am Ende deines Bachelor-/Masterstudium im Bereich Mathematik, (Wirtschafts-) Informatik, Physik, Statistik
+Durch erste Praktika konntest du bereits Erfahrung im Bereich Data Engineering/Integration, Big Data, Business Intelligence oder Machine Learning sammeln
+Du besitzt mindestens Basis-Know-How in Programmierung (u.a. Java, C#, HTML), Datenmodellierung (u.a. SQL, Pyhton, R), Datenbanken (u.a. MS SQL, Oracle, Postgres), Business Intelligence oder Visualisierung
+Technology on the Edge weckt dein Interesse und du möchtest ein Praktikum mit einer Dauer von 3 bis 6 Monaten absolvieren
+Du bist Digital Native, hast einen routinierten Umgang mit MS Office und sprichst fließend Deutsch und Englisch
+Wir leben Chancengleichheit und Vielfalt. Bewerbungen von Kandidat:innen mit Behinderung sind explizit erwünscht.
+Dein Kontakt
+Dein Kontakt
+Du hast Fragen? Dann wende dich gerne an unser Recruiting Team per E-Mail an recruiting_austria@accenture.com.
+recruiting_austria@accenture.com
+Das Bruttomonatsgehalt liegt für diese Position bei 1.850EUR auf Vollzeitbasis.
+Wir freuen uns auf deine Bewerbung
+Bewerben
+Bewerben
+Innovationsführer  Accenture ist immer am Puls der Zeit. Wir gestalten die Digitalisierung aktiv mit, sind strategischer Vordenker und technologischer Vorreiter. So stärken wir Unternehmen und ganze Branchen.
+Innovationsführer
+
+Weiterbildung und Karriere  Unser Trainingsangebot reicht von Online-Kursen über virtuelle Trainings bis hin zu Classroom-Seminaren. Wir investieren jährlich über 800 Millionen US-Dollar in Mitarbeiterbildung.
+Weiterbildung und Karriere
+
+Aufgabenvielfalt  Mehr Vielfalt geht kaum: Wir begleiten Kunden aus 40 Industrien über den gesamten Lösungsprozess - von der Strategieentwicklung über die digitale Transformation bis zur operativen Durchführung.
+Aufgabenvielfalt
+
+Flexibles Arbeiten  Bei der Planung unserer Projekte berücksichtigen wir die Lebenssituation unserer Mitarbeiter. Modernste Technologien ermöglichen ein ortsunabhängiges und flexibles Arbeiten.
+Flexibles Arbeiten
+
+Unternehmenskultur  Unsere Kultur ist geprägt von Innovationskraft und Teamgeist sowie vom intensiven Wissens- und Erfahrungsaustausch innerhalb unseres globalen Netzwerks.
+Unternehmenskultur
+
+Markterfolg  Wir arbeiten für mehr als 4.000 Kunden in über 120 Ländern, viele davon sind die erfolgreichsten und namhaftesten Unternehmen ihrer Branche. Darunter 29 der DAX-30-Unternehmen.
+Markterfolg
+
+Frauen bei Accenture  Schon heute arbeiten bei Accenture mehr als 145.000 Frauen. Doch wir wollen ihren Anteil bei Neueinstellungen weiter steigern - und das weltweit. Frauen profitieren von speziellen Trainings, Mentorings und Netzwerken.
+Frauen bei Accenture
+
+Gesellschaftliche Verantwortung  Unser gesellschaftliches Engagement als Unternehmen ist in unseren Grundwerten verankert. Gemeinsam mit unseren Mitarbeitern wollen wir einen nachhaltigen, messbaren Beitrag für die Gesellschaft leisten.
+Gesellschaftliche Verantwortung
+
+Accenture - dein neues berufliches Zuhause
+Wenn es darum geht, die Leistungsfähigkeit von Unternehmen zu stärken und sie ins digitale Zeitalter zu führen, macht uns niemand so schnell was vor. Als eines der weltweit führenden Dienstleistungsunternehmen bieten wir Kunden in mehr als 120 Ländern, darunter die erfolgreichsten und namhaftesten ihrer Branche, eine breite Palette von Services und Lösungen. In unseren Bereichen Strategy, Consulting, Digital, Technology und Operations treiben wir Innovationen konsequent voran. Was uns einzigartig macht: Wir begleiten den gesamten Lösungsprozess - von der Strategieentwicklung über die digitale Transformation bis zur operativen Umsetzung. Mehr erfahren
+Mehr erfahren
+Wir suchen Menschen mit eigenem Lebensentwurf und ungewöhnlichem Lebenslauf. Individuell statt uniform. Vielfalt statt Norm. Diversität ist unsere Stärke und eine wesentliche Komponente der Unternehmenskultur von Accenture. Wir fördern ein integratives und offenes Arbeitsumfeld, in dem sich jeder so zeigen kann, wie er ist. Bei Accenture ist jeder Bewerber willkommen: unabhängig von Herkunft, Nationalität, Glaube, Behinderung, Alter, Familienstand, Partnerschaftsstatus, sexueller Orientierung, Geschlecht und anderen gesetzlich geschützten Gründen."
+Praktikum Data Engineering - Group Data Warehouse *,BAWAG Group,['Wien'],,Homeoffice,,https://www.karriere.at/jobs/7304599,"Praktikum Data Engineering - Group Data Warehouse *
+Vom Hörsaal ins Office: Praktische Erfahrungen während des Studiums sind ein echter Booster für die eigene Karriere. Als Teil unseres motivierten & internationalen Teams und in spannende Tasks eingebunden - so wird mit einem Praktikum in der BAWAG Group der Grundstein für eine aufregende Karriere in einer stetig wachsenden, global agierenden Bankengruppe gelegt.
+Wir bieten spannende Einblicke in eine weltweit vernetzte und sich ständig wandelnde Finanzwelt. Individuelle Talente, Potentiale und persönliche Weiterentwicklung stehen im Mittelpunkt unseres Praktikum Programms ""Come & Learn"". Das Praktikum startet mit Februar 2025 in Wien.
+Februar 2025 in Wien
+Aufgabenbereich
+Aufgabenbereich
+Management und Umsetzung von bankweiten Projekten im DWH-Umfeld in enger Zusammenarbeit mit relevanten Business-Bereichen (speziell neuer M&A-Projekte) Technische Umsetzung von Datenintegrationen neuer Datenmodelle in das Zielmodel der BAWAG Group Solution-Design von Datenprozessen auf Basis der Stakeholder-Anforderungen aus - Controlling, Financial Reporting und Risk Support der Business-Units bei Optimierung interner Prozesse und ad-hoc Reports Weiterentwicklung des Group Data Warehouses (gDWH) in den Bereichen Datenqualität und Datenharmonisierung Teamarbeit und zeitgerechte Lieferung von qualitativer Software nach agilen Prinzipien
+Management und Umsetzung von bankweiten Projekten im DWH-Umfeld in enger Zusammenarbeit mit relevanten Business-Bereichen (speziell neuer M&A-Projekte)
+Technische Umsetzung von Datenintegrationen neuer Datenmodelle in das Zielmodel der BAWAG Group
+Solution-Design von Datenprozessen auf Basis der Stakeholder-Anforderungen aus - Controlling, Financial Reporting und Risk
+Support der Business-Units bei Optimierung interner Prozesse und ad-hoc Reports
+Weiterentwicklung des Group Data Warehouses (gDWH) in den Bereichen Datenqualität und Datenharmonisierung
+Teamarbeit und zeitgerechte Lieferung von qualitativer Software nach agilen Prinzipien
+Profil
+Profil
+Aktives Studium und finanzwirtschaftliches Grundverständnis, sowie Verständnis über die Zusammenhänge der Teilbereiche innerhalb einer Bank Grundverständnis über relationale Datenbanken, insb. Oracle Datenbanksystemen erste Erfahrung mit SQL und PL/SQL - Erfahrung mit Programmiersprachen wie Python/R von Vorteil Fähigkeit Geschäftsprozesse zu verstehen, zu analysieren und zu optimieren Lösungsorientiertes Denken und Handeln sowie selbstständige und strukturierte Arbeitsweise gute Kommunikations-, Team-, und Koordinationsfähigkeit Gestaltungswille & -kraft, Umsetzungsstärke, Durchsetzungsvermögen Hands-On Mentalität Interesse an der Einbindung neuer Technologien (Artificial Intelligence)
+Aktives Studium und finanzwirtschaftliches Grundverständnis, sowie Verständnis über die Zusammenhänge der Teilbereiche innerhalb einer Bank
+Grundverständnis über relationale Datenbanken, insb. Oracle Datenbanksystemen
+erste Erfahrung mit SQL und PL/SQL - Erfahrung mit Programmiersprachen wie Python/R von Vorteil
+Fähigkeit Geschäftsprozesse zu verstehen, zu analysieren und zu optimieren
+Lösungsorientiertes Denken und Handeln sowie selbstständige und strukturierte Arbeitsweise
+gute Kommunikations-, Team-, und Koordinationsfähigkeit
+Gestaltungswille & -kraft, Umsetzungsstärke, Durchsetzungsvermögen
+Hands-On Mentalität
+Interesse an der Einbindung neuer Technologien (Artificial Intelligence)
+Unser Angebot
+Unser Angebot
+FlexOffice ist unser Motto! Arbeiten in der privaten Umgebung, wann immer es mit dem Job vereinbar ist. Unser Büro ist modern und leicht erreichbar am Wiener Hauptbahnhof. Das Praktikumsprogramm Come & Learn beinhaltet einen erfahrenen Sparringpartner, der durch das Praktikum begleitet, gezielte Maßnahmen zur fachlichen Weiterentwicklung im Rahmen der BAWAG Academy, spannendes on-the-job Training, Banking-Veranstaltungen & inspirierende Businesstalks mit Vorständen und Mitgliedern unseres Senior Leadership-Teams sowie Networking Events zum Vernetzen. Das Praktikum ist spannend sowie lehrreich und dauert 5 bis 6 Monate mit 30 Wochenstunden bzw. Vollzeit im Rahmen eines Pflichtpraktikums an einer Fachhochschule.
+FlexOffice ist unser Motto! Arbeiten in der privaten Umgebung, wann immer es mit dem Job vereinbar ist.
+Unser Büro ist modern und leicht erreichbar am Wiener Hauptbahnhof.
+Wiener Hauptbahnhof
+Das Praktikumsprogramm Come & Learn beinhaltet einen erfahrenen Sparringpartner, der durch das Praktikum begleitet, gezielte Maßnahmen zur fachlichen Weiterentwicklung im Rahmen der BAWAG Academy, spannendes on-the-job Training, Banking-Veranstaltungen & inspirierende Businesstalks mit Vorständen und Mitgliedern unseres Senior Leadership-Teams sowie Networking Events zum Vernetzen.
+Das Praktikum ist spannend sowie lehrreich und dauert 5 bis 6 Monate mit 30 Wochenstunden bzw. Vollzeit im Rahmen eines Pflichtpraktikums an einer Fachhochschule.
+Für das Praktikum gilt auf Basis einer Vollbeschäftigung ein monatliches Bruttoentgelt von EUR 2.500,00.
+Ansprechpartnerin: Martina Simek +43664 8099832162
+Ansprechpartnerin: Martina Simek +43664 8099832162
+*  Wir wertschätzen den Menschen.
+*
+Wir wertschätzen den Menschen.
+Chancengleichheit ist für uns wichtig - unabhängig vom Alter, Geschlecht, sexueller Orientierung, körperlicher Beeinträchtigung, Religion und Herkunft.
+Jobbörse | Xing | LinkedIn | Facebook | Instagram
+Jobbörse | Xing | LinkedIn | Facebook | Instagram
+Jobbörse
+Xing
+LinkedIn
+Facebook
+Instagram
+Standort   Wien
+
+Wien
+Tätigkeitsbereich    Computer and Mathematics
+
+Computer and Mathematics
+
+
+Wochenstunden   Vollzeit
+
+Vollzeit"
+(Senior) Data Engineering Consultant (m/w/x),BearingPoint GmbH,['Wien'],Vollzeit,,ab 3.724 € monatlich,https://www.karriere.at/jobs/7327552,"(Senior) Data Engineering Consultant (m/w/x)
+Standort: Wien | Anstellung: Vollzeit | ab sofort
+BearingPoint ist eine der führenden internationalen Management- und Technologieberatungen, die Beratungs Know How und IT Kompetenz auf einzigartige Weise vereint. Mit weltweit 6.000 Mitarbeiter:innen entwickeln wir digitale Strategien und Geschäftsmodelle, optimieren Prozesse und konzipieren IT-Architekturen für führende Unternehmen aller Branchen und Organisationen der öffentlichen Hand. Wir verstehen uns als wichtiger Partner unserer Kund:innen und begleiten diese nachhaltig auf ihrem erfolgreichen Weg ins digitale Zeitalter. In Österreich sind wir mit 360 Mitarbeiter:innen an den Standorten Wien und Graz vertreten.
+Wir suchen laufend die besten Köpfe für unsere spannenden nationalen und internationalen Projekte.
+Deine Aufgaben:
+Mitarbeit in spannenden Projekten bei der Entwicklung und Implementierung moderner Datenplattformen und Pipeline-Lösungen Aktive Beratung und Begleitung unserer internationalen Kund:inen allen Projektphasen - von der Anforderungsanalyse und Konzeption von Datenarchitekturen bis hin zur operativen Umsetzung und Optimierung von Datenpipelines Einsatz von führenden Technologien wie Snowflake, Databricks, Denodo oder Starburst zur Entwicklung skalierbarer und effizienter Datenlösungen Möglichkeit zur Mitwirkung bei technischen Studien, Veröffentlichungen, Analysen und Angebotserstellungen im Bereich Data Engineering Weiterentwicklung unseres Data & Analytics Beratungsangebots durch die Integration innovativer Datenarchitekturen und Pipeline-Lösungen in einem jungen, motivierten Team
+Mitarbeit in spannenden Projekten bei der Entwicklung und Implementierung moderner Datenplattformen und Pipeline-Lösungen
+Aktive Beratung und Begleitung unserer internationalen Kund:inen allen Projektphasen - von der Anforderungsanalyse und Konzeption von Datenarchitekturen bis hin zur operativen Umsetzung und Optimierung von Datenpipelines
+Einsatz von führenden Technologien wie Snowflake, Databricks, Denodo oder Starburst zur Entwicklung skalierbarer und effizienter Datenlösungen
+Möglichkeit zur Mitwirkung bei technischen Studien, Veröffentlichungen, Analysen und Angebotserstellungen im Bereich Data Engineering
+Weiterentwicklung unseres Data & Analytics Beratungsangebots durch die Integration innovativer Datenarchitekturen und Pipeline-Lösungen in einem jungen, motivierten Team
+Damit punktest Du bei uns:
+Erfolgreicher Abschluss eines Studiums mit Bezügen zu Data Science, (Wirtschafts-)Informatik, Wirtschaftswissenschaften, Statistik oder einer vergleichbaren Ausbildung Mindestens 2 Jahre relevante Berufserfahrung im Bereich Data Engineering Enthusiastische und proaktive Persönlichkeit mit einer analytischen Denkweise und einem Auge für Details Praktische Erfahrungen in der Industrie oder Beratung, idealerweise im Umgang mit Datenplattformen wie Snowflake, Databricks, Denodo oder Starburst Leidenschaft für die Themen Data Engineering, Data Modelling und moderne Datenplattformen Hands-on-Erfahrung in einem oder mehreren der folgenden Teilgebiete: Aufbau und Optimierung von Datenpipelines (ETL/ELT) Datenmodellierung und Architekturdesign für skalierbare Datenlösungen Umgang mit Datenarchitekturen und Datenintegration in Plattformen wie Snowflake, Databricks, Denodo oder Starburst Sicherstellung von Datenqualität und Performance bei großen Datenmengen OPTIONAL: (Echtzeit-) Datenverarbeitung und -orchestrierung (z. B.: Cloud, Kafka, Confluent, Camunda)
+Erfolgreicher Abschluss eines Studiums mit Bezügen zu Data Science, (Wirtschafts-)Informatik, Wirtschaftswissenschaften, Statistik oder einer vergleichbaren Ausbildung
+Mindestens 2 Jahre relevante Berufserfahrung im Bereich Data Engineering
+Enthusiastische und proaktive Persönlichkeit mit einer analytischen Denkweise und einem Auge für Details
+Praktische Erfahrungen in der Industrie oder Beratung, idealerweise im Umgang mit Datenplattformen wie Snowflake, Databricks, Denodo oder Starburst
+Leidenschaft für die Themen Data Engineering, Data Modelling und moderne Datenplattformen
+Hands-on-Erfahrung in einem oder mehreren der folgenden Teilgebiete:
+Aufbau und Optimierung von Datenpipelines (ETL/ELT)
+Datenmodellierung und Architekturdesign für skalierbare Datenlösungen
+Umgang mit Datenarchitekturen und Datenintegration in Plattformen wie Snowflake, Databricks, Denodo oder Starburst
+Sicherstellung von Datenqualität und Performance bei großen Datenmengen
+OPTIONAL: (Echtzeit-) Datenverarbeitung und -orchestrierung (z. B.: Cloud, Kafka, Confluent, Camunda)
+Damit punkten wir bei Dir:
+Berufliche Vielfalt, hohe Eigenverantwortung und gelebtes Miteinander Individuelle und aktive Karriereförderung unterstützt durch umfassende Trainingsprogramme Inspirierende Projekte an der Schnittstelle Consulting und IT in unterschiedlichen Branchen weltweit Laptop für den beruflichen und privaten Gebrauch, Essensgutscheine und Zuschuss zum Jobticket Flexible Arbeitszeitgestaltung und zahlreiche zusätzliche Benefits Gleichberechtigte und integrative Kultur - wir setzen uns für eine vielfältige und integrative Arbeitskultur ein, in der sich jede:r Einzelne zugehörig fühlt und sich in einem Arbeitsumfeld mit starkem Gemeinschaftssinn entfalten kann
+Berufliche Vielfalt, hohe Eigenverantwortung und gelebtes Miteinander
+Individuelle und aktive Karriereförderung unterstützt durch umfassende Trainingsprogramme
+Inspirierende Projekte an der Schnittstelle Consulting und IT in unterschiedlichen Branchen weltweit
+Laptop für den beruflichen und privaten Gebrauch, Essensgutscheine und Zuschuss zum Jobticket
+Flexible Arbeitszeitgestaltung und zahlreiche zusätzliche Benefits
+Benefits
+Gleichberechtigte und integrative Kultur - wir setzen uns für eine vielfältige und integrative Arbeitskultur ein, in der sich jede:r Einzelne zugehörig fühlt und sich in einem Arbeitsumfeld mit starkem Gemeinschaftssinn entfalten kann
+Du hast bei uns die Möglichkeit, basierend auf Deiner individuellen Leistung aktiv dein Gehalt zu beeinflussen. Für diese Position gilt ein Mindestgehalt von EUR 3.724,- brutto pro Monat. Gerne sind wir bereit je nach Qualifikation und Erfahrung ein höheres Gehalt anzubieten.
+Haben wir dein Interesse geweckt? Hier bekommst du schon einen kurzen Einblick, was dich bei uns im Wiener Office erwartet.
+Hier
+Entdecke BearingPoint! In dieser Podcast-Episode gewähren wir exklusive Einblicke in unser globales Unternehmen. Klicke hier, um mehr über unsere Unternehmenskultur zu erfahren.
+hier
+Wir freuen uns auf deine Bewerbung online oder per Mail.
+per Mail
+www.bearingpoint.com
+Bei Fragen steht dir unsere Recruiterin Sonja Matzer gerne zur Verfügung: +43 316 8003 2402 oder people@bearingpoint.com
+people@bearingpoint.com
+BearingPoint, Wiedner Gürtel 13/ Turm 24, 1100 Wien
+BearingPoint, Waagner-Biro Straße 102, 8020 Graz
+1 Klick-Bewerbung
+1 Klick-Bewerbung"
+Senior Data Scientist (w/m/*),CANCOM Austria AG,['Wien'],Vollzeit,Homeoffice,ab 70.000 € jährlich,https://www.karriere.at/jobs/7316983,"CANCOM Austria AG
+Senior Data Scientist (w/m/*)
+Job Facts
+Wien
+VollzeitCANCOM Austria: Österreichs führender ICT-Serviceprovider und Digitalisierungspartner. Durch unsere Kapsch-Wurzeln verbinden wir 130 Jahre Innovationskraft mit unserer Leidenschaft für Technologie und unserem zertifizierten Know-how für Collaboration, Netzwerk und IT-Technologie, um als Consulter, Umsetzungspartner, Managed Service Partner und Digital Business Engineer zur Verfügung zu stehen. Wir entwickeln eigene Softwarelösungen, Plattformen für IoT und spezifische AI-Anwendungen auch für neue Geschäftsmodelle. Und denken als Digital Maker dabei immer end-to-end.
+
+Das sind deine Aufgaben
+Als Senior Data Scientist bist du Mastermind in der Entwicklung und Anwendung von State-of-the-Art KI-Lösungen für unsere innovativen Produkte und Kundenprojekte im DACH-Raum.
+Entwicklung und Anwendung von KI-Modellen und Algorithmen für verschiedene Anwendungsfälle, einschließlich Natural Language Processing, Computer Vision oder heuristischer Optimierung. Lösung von komplexen Datenanalyse- und Optimierungsproblemen eingebettet in moderne Cloud Software-Architekturen Implementierung umfangreicher Produkte und Frameworks für Anwendungsfälle in der Industrie, Finanzwirtschaft oder dem öffentlichen Bereich Agile Zusammenarbeit auf Augenhöhe in einem cross-funktionalen Team mit Software- u. Data-Engineers bis hin zu Product Ownern und IT Architects. Fackelträger für AI im Unternehmen und Enablement von unterschiedlichen Stakeholdern um das Trendthema für neue Produkte und Innovationen greifbar zu machen Aktive Teilnahme an Chapter Arbeit sowie Umsetzung der strategischen Ausrichtung des Teams
+Entwicklung und Anwendung von KI-Modellen und Algorithmen für verschiedene Anwendungsfälle, einschließlich Natural Language Processing, Computer Vision oder heuristischer Optimierung. Lösung von komplexen Datenanalyse- und Optimierungsproblemen eingebettet in moderne Cloud Software-Architekturen
+Implementierung umfangreicher Produkte und Frameworks für Anwendungsfälle in der Industrie, Finanzwirtschaft oder dem öffentlichen Bereich
+Agile Zusammenarbeit auf Augenhöhe in einem cross-funktionalen Team mit Software- u. Data-Engineers bis hin zu Product Ownern und IT Architects.
+Fackelträger für AI im Unternehmen und Enablement von unterschiedlichen Stakeholdern um das Trendthema für neue Produkte und Innovationen greifbar zu machen
+Aktive Teilnahme an Chapter Arbeit sowie Umsetzung der strategischen Ausrichtung des Teams
+Das bringst du mit
+Du hast Erfahrung mit KI Modellen, maschinellem Lernen und statistischer Optimierung? Bevorzugt hast du bereits mit Natural Language Processing, Prompt Engineering, Knowledge Representation oder Computer Vision Projekte umgesetzt Du beschreibst dich als mutig, lösungsorientiert sowie teamfähig und in einem dynamischen Umfeld gestaltest du gerne die Organisation mit und entwickelst junge Kolleg:innen weiter? Du hast Machine Learning Engineering & -Operations oder Data Engineering sehr umfangreiche Erfahrung und kannst deine Skills in Python und Cloud-basierten Technologien anwenden? Du bringst ein naturwissenschaftliches oder ingenieurwissenschaftliches Grundlagenverständnis mit, um komplexe und neue Domänen-spezifische Probleme zu lösen? Du teilst deine Begeisterung für neue KI-Trends gerne mit Kunden in Gesprächen oder auf Veranstaltungen?
+Du hast Erfahrung mit KI Modellen, maschinellem Lernen und statistischer Optimierung? Bevorzugt hast du bereits mit Natural Language Processing, Prompt Engineering, Knowledge Representation oder Computer Vision Projekte umgesetzt
+Du beschreibst dich als mutig, lösungsorientiert sowie teamfähig und in einem dynamischen Umfeld gestaltest du gerne die Organisation mit und entwickelst junge Kolleg:innen weiter?
+Du hast Machine Learning Engineering & -Operations oder Data Engineering sehr umfangreiche Erfahrung und kannst deine Skills in Python und Cloud-basierten Technologien anwenden?
+Du bringst ein naturwissenschaftliches oder ingenieurwissenschaftliches Grundlagenverständnis mit, um komplexe und neue Domänen-spezifische Probleme zu lösen?
+Du teilst deine Begeisterung für neue KI-Trends gerne mit Kunden in Gesprächen oder auf Veranstaltungen?
+Du findest dich in dem oben beschriebenen Profil wieder? Dann bist du bei uns genau richtig!
+Dann bist du bei uns genau richtig!
+Das ist unser Angebot für dich
+Unsere Mitarbeiter:innen sind unser wichtigster Erfolgsfaktor! Daher bieten wir diverse Benefits an, um alle Bedürfnisse des Lebens abzudecken, bspw. flexible Arbeitszeiten, Homeoffice, Fenstertagsregelung, Jobticket, Pensionsvorsorge, Gesundheitsangebote, Essenszuschuss, und viele mehr! Zusammen feiern wir die kleinen und großen Erfolge bei unseren internen Sommerfesten, Weihnachtsfeiern, Teambuildings und Strategieevents
+Unsere Mitarbeiter:innen sind unser wichtigster Erfolgsfaktor! Daher bieten wir diverse Benefits an, um alle Bedürfnisse des Lebens abzudecken, bspw. flexible Arbeitszeiten, Homeoffice, Fenstertagsregelung, Jobticket, Pensionsvorsorge, Gesundheitsangebote, Essenszuschuss, und viele mehr!
+Zusammen feiern wir die kleinen und großen Erfolge bei unseren internen Sommerfesten, Weihnachtsfeiern, Teambuildings und Strategieevents
+Wir als CANCOM Austria legen großen Wert auf leistungsorientierte, regelmäßig angepasste Entlohnung. Das Gehalt liegt für diese Position auf Vollzeitbasis bei ca. EUR 70.000,-. Dein tatsächliches Gehalt richtet sich nach Berufserfahrung sowie Qualifikation und kann auch höher ausfallen. Wir legen bei der Besetzung unserer Positionen Wert auf Chancengleichheit und die individuellen Fähigkeiten unserer Bewerber:innen. Als Arbeitgeber schätzen wir die Vielfältigkeit unserer Mitarbeiter:innen in jeglicher Hinsicht.​​
+Benefits
+Aus- und Weiterbildungsangebote Einkaufsrabatte Betriebsarzt und Gesundheitsvorsorgeprogramme Homeoffice Mitarbeiter:innen Zukunftsvorsorge (ab 3 Jahren Zugehörigkeit) Notebook & Smartphone Mitarbeiter:innen-Events Jobticket Fenstertagsregelung
+Aus- und Weiterbildungsangebote
+Einkaufsrabatte
+Betriebsarzt und Gesundheitsvorsorgeprogramme
+Homeoffice
+Mitarbeiter:innen Zukunftsvorsorge (ab 3 Jahren Zugehörigkeit)
+Notebook & Smartphone
+Mitarbeiter:innen-Events
+Jobticket
+Fenstertagsregelung
+Ihr Kontakt
+Raphaela Willitsch  Specialist Talent Acquisition & Recruiting  +43 664 628 5033
+
+
+Jetzt bewerben
+Jetzt bewerben"

@@ -76,6 +76,24 @@ def parse_job_data(soup):
     return jobs
 
 
+# Function to parse detailed job descriptions from the individual job page
+def parse_job_description(job_url):
+    description = ''
+    if job_url:
+        job_content = get_page_content(job_url)
+        if job_content:
+            soup = BeautifulSoup(job_content, 'html.parser')
+            description_tag = soup.find('div', class_='m-jobContent__jobText m-jobContent__jobText--standalone')
+
+            # Extract text from all child tags inside the specified div
+            if description_tag:
+                # Loop through all elements (p, h1, h2, ul, li, etc.)
+                for element in description_tag.find_all(True):
+                    description += element.text.strip() + '\n'
+
+    return description.strip()
+
+
 # Function to scrape job listings from a given URL
 def scrape_karriere_jobs(query, location, num_pages=1):
     all_jobs = []
@@ -100,12 +118,22 @@ def scrape_karriere_jobs(query, location, num_pages=1):
 # Main function to run the scraper and save data to a CSV file
 def main():
     query = 'data-engineer'  # Replace with your desired job title (URL-friendly)
-    num_pages = 2  # Number of pages to scrape
+    num_pages = 1  # Number of pages to scrape
     location = 'wien'
 
     job_data = scrape_karriere_jobs(query, location, num_pages)
 
     if job_data:
+        # Iterate through each job and fetch its detailed description
+        for job in job_data:
+            if job['url']:
+                print(f"Scraping job details for: {job['title']} - {job['company']}")
+                job_description = parse_job_description(job['url'])
+                job['description'] = job_description
+
+                # Add random delay to avoid being blocked
+                time.sleep(random.randint(3, 7))
+
         # Save to CSV
         df = pd.DataFrame(job_data)
         df.to_csv('karriere_at_data_engineer_listings.csv', index=False)
