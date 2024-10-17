@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import time
 import random
+import re
 
 
 # Function to get the HTML content of a page
@@ -76,6 +77,57 @@ def parse_job_data(soup):
     return jobs
 
 
+# Function to extract skills from a job description
+def extract_skills(description):
+    # Define a list of skills to look for (add more as needed)
+    skill_keywords = [
+        'JavaScript', 'C++', 'Data Modeling', 'AWS', 'DevOps', 'Data Science', 'Big Data', 'Databricks', 'Machine Learning',
+        'APIs', 'Spark', 'Hadoop', 'CI/CD', 'Power BI', 'Data Engineering', 'ETL', 'Data Pipelines', 'Datenmodellierung',
+        'Datenmanagement', 'Data Warehouse', 'Data Lakehouse', 'Data Lakes', 'Datenqualitätsanalyse', 'Datenentdeckung',
+        'OLAP-Würfel', 'Datenvorbereitung', 'Datenintegration', 'Datenanalyse', 'SQL', 'T-SQL',
+        'SSIS', 'Apache Hadoop', 'Apache Kafka', 'Apache NiFi', 'Apache Flink', 'Python',
+        'C#', 'PowerShell', 'Microsoft SQL Server', 'Microsoft Azure', 'Microsoft Power Platform',
+        'Microsoft Fabric', 'Java', 'Linux', 'Virtualisierung', 'Backup-Lösungen', 'Speicherlösungen',
+        'Kommunikationsfähigkeit', 'Teamarbeit', 'Problemlösungsfähigkeiten', 'Kundenorientierung',
+        'Strukturierte Arbeitsweise', 'Kreativität', 'Flexibilität', 'Selbstständigkeit',
+        'Respekt und Empathie', 'Deutsch', 'Englisch', 'German', 'English', 'Technische Ausbildung', 'Berufserfahrung im Data Engineering',
+        'Projekterfahrung', 'Verständnis von Bankgeschäftsmodellen', 'projektmanagement', 'erp', 'datenmodellen', 'computer science',
+        'data processing'
+    ]
+
+    # Extract the skills by checking if keywords are in the description
+    skills = [skill for skill in skill_keywords if skill.lower() in description.lower()]
+
+    # Return the list of skills as a comma-separated string
+    return ', '.join(skills)
+
+
+def preprocess_text(text):
+    # 1. Remove URLs
+    text = re.sub(r'http\S+', '', text)  # Remove URLs
+
+    # 2. Remove email addresses
+    text = re.sub(r'\S+@\S+', '', text)  # Remove emails
+
+    # 3. Remove unwanted characters and extra spaces
+    text = re.sub(r'[^A-Za-zÄäÖöÜüß\s/€.,-]', ' ', text)  # Remove non-German letters except some punctuation
+    text = re.sub(r'\s+', ' ', text).strip()  # Remove extra spaces and line breaks
+
+    # 4. Convert to lowercase (optional, depending on the use case)
+    text = text.lower()
+
+    # 5. Remove duplicated lines or phrases (optional)
+    seen_lines = set()
+    lines = text.splitlines()
+    unique_lines = []
+    for line in lines:
+        if line.strip() not in seen_lines:
+            unique_lines.append(line)
+            seen_lines.add(line.strip())
+
+    return " ".join(unique_lines).strip()
+
+
 # Function to parse detailed job descriptions from the individual job page
 def parse_job_description(job_url):
     description = ''
@@ -91,7 +143,7 @@ def parse_job_description(job_url):
                 for element in description_tag.find_all(True):
                     description += element.text.strip() + '\n'
 
-    return description.strip()
+    return preprocess_text(description.strip())
 
 
 # Function to scrape job listings from a given URL
@@ -130,6 +182,9 @@ def main():
                 print(f"Scraping job details for: {job['title']} - {job['company']}")
                 job_description = parse_job_description(job['url'])
                 job['description'] = job_description
+
+                # Extract skills from the job description
+                job['skills'] = extract_skills(job_description)
 
                 # Add random delay to avoid being blocked
                 time.sleep(random.randint(3, 7))
