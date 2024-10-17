@@ -62,6 +62,10 @@ def parse_job_data(soup):
             elif '€' in text:
                 salary = text
 
+                # Clean and standardize salary to monthly integer value
+                salary_value = None
+                if salary:
+                    salary_value = extract_numeric_salary(salary)  # Convert the salary to a numeric value (monthly)
 
         # Add parsed job data to the list
         jobs.append({
@@ -70,11 +74,56 @@ def parse_job_data(soup):
             'locations': job_locations,
             'type': job_type,
             'home_office': home_office,
-            'salary': salary,
+            'salary': salary_value,
             'url': job_url
         })
 
     return jobs
+
+
+def extract_numeric_salary(salary_text):
+    """
+    Function to convert salary text to a numeric monthly salary.
+    - Handles European-style salary formatting (e.g., '3.138,19 €').
+    - If the salary is yearly, divide it by 12.
+    - Handles salary ranges by calculating the average.
+    """
+    # Check if the salary is specified as yearly or monthly
+    is_yearly = 'jährlich' in salary_text.lower()
+    is_monthly = 'monatlich' in salary_text.lower()
+
+    # Remove any unwanted characters except numeric, decimal, comma, period, and hyphen for ranges
+    salary_text_clean = re.sub(r'[^\d.,–-]', '', salary_text)
+
+    # Updated regex to match complete European-style numbers with thousands separators and optional ranges
+    salary_numeric = re.findall(r'\d{1,3}(?:\.\d{3})*(?:,\d+)?', salary_text_clean)
+
+    if salary_numeric:
+        # Convert European-style formatting (replace '.' as thousands separator, ',' as decimal separator)
+        salary_values = []
+        for salary in salary_numeric:
+            salary_value_str = salary.replace('.', '').replace(',', '.')  # Convert to standard float format
+            salary_values.append(float(salary_value_str))
+
+        # If there are two values (indicating a range), calculate the average
+        if len(salary_values) == 2:
+            salary_value = sum(salary_values) / 2
+        else:
+            salary_value = salary_values[0]  # Single value case
+
+        # If it's an annual salary, convert to monthly by dividing by 12
+        if is_yearly:
+            salary_value = salary_value / 12
+
+        # If it's monthly, do not divide by 12
+        if is_monthly:
+            return round(salary_value, 2)  # Return as is for monthly salaries
+
+        # Return the salary value rounded to the nearest whole number or keep it as float if it's a fraction
+        return round(salary_value, 2) if '.' in str(salary_value) else int(salary_value)
+
+    return None  # Return None if no salary is found
+
 
 
 # Function to extract skills from a job description
