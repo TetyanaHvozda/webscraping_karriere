@@ -4,6 +4,7 @@ import pandas as pd
 import time
 import random
 import re
+import mysql.connector
 
 
 # Function to get the HTML content of a page
@@ -216,6 +217,77 @@ def scrape_karriere_jobs(query, location, num_pages=1):
     return all_jobs
 
 
+def create_table_if_not_exists(cursor):
+    create_table_query = """
+    CREATE TABLE IF NOT EXISTS job_listings (
+        id INT AUTO_INCREMENT PRIMARY KEY,
+        title VARCHAR(255),
+        company VARCHAR(255),
+        locations TEXT,
+        type VARCHAR(50),
+        home_office VARCHAR(50),
+        salary DECIMAL(10,2),
+        url TEXT,
+        description TEXT,
+        skills TEXT
+    );
+    """
+    cursor.execute(create_table_query)
+
+
+# Function to connect to MySQL and insert data
+def insert_into_mysql(jobs):
+    try:
+        # Establish a MySQL connection
+        connection = mysql.connector.connect(
+            host='localhost',
+            user='root',  # Update with your MySQL username
+            password='',  # Update with your MySQL password
+            database='karriere'  # Update with your database name
+        )
+
+        cursor = connection.cursor()
+
+        # Ensure the table exists before inserting data
+        create_table_if_not_exists(cursor)
+
+        # Insert each job entry into the database
+        for job in jobs:
+            insert_query = """
+            INSERT INTO job_listings (title, company, locations, type, home_office, salary, url, description, skills)
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+            """
+
+            # Convert the locations and skills lists to strings before insertion
+            job_locations = ', '.join(job['locations']) if job['locations'] else None
+            job_skills = ', '.join(job['skills'].split(', ')) if job['skills'] else None
+
+            cursor.execute(insert_query, (
+                job['title'],
+                job['company'],
+                job_locations,
+                job['type'],
+                job['home_office'],
+                job['salary'],
+                job['url'],
+                job['description'],
+                job_skills
+            ))
+
+        # Commit the transaction
+        connection.commit()
+        print(f"Successfully inserted {len(jobs)} records into the database.")
+
+    except mysql.connector.Error as error:
+        print(f"Failed to insert records into MySQL: {error}")
+
+    finally:
+        if connection.is_connected():
+            cursor.close()
+            connection.close()
+            print("MySQL connection is closed")
+
+
 # Main function to run the scraper and save data to a CSV file
 def main():
     query = 'data-engineer'  # Replace with your desired job title (URL-friendly)
@@ -238,10 +310,9 @@ def main():
                 # Add random delay to avoid being blocked
                 time.sleep(random.randint(3, 7))
 
-        # Save to CSV
-        df = pd.DataFrame(job_data)
-        df.to_csv('karriere_at_data_engineer_listings.csv', index=False)
-        print("Data saved to karriere_at_data_engineer_listings.csv")
+        # Insert data into MySQL
+        insert_into_mysql(job_data)
+        print("Data inserted into MySQL successfully!")
     else:
         print("No job data found")
 
