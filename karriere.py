@@ -232,8 +232,8 @@ def create_table_if_not_exists(cursor):
         skills TEXT
     );
     """
-    cursor.execute(create_table_query)
 
+    cursor.execute(create_table_query)
 
 # Function to connect to MySQL and insert data
 def insert_into_mysql(jobs):
