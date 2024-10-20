@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
 import time
 import random
 import re
@@ -76,7 +75,9 @@ def parse_job_data(soup):
             'type': job_type,
             'home_office': home_office,
             'salary': salary_value,
-            'url': job_url
+            'url': job_url,
+            'description': '',
+            'skills': ''
         })
 
     return jobs
@@ -126,23 +127,22 @@ def extract_numeric_salary(salary_text):
     return None  # Return None if no salary is found
 
 
-
 # Function to extract skills from a job description
 def extract_skills(description):
     # Define a list of skills to look for (add more as needed)
     skill_keywords = [
-        'JavaScript', 'C++', 'Data Modeling', 'AWS', 'DevOps', 'Data Science', 'Big Data', 'Databricks', 'Machine Learning',
-        'APIs', 'Spark', 'Hadoop', 'CI/CD', 'Power BI', 'Data Engineering', 'ETL', 'Data Pipelines', 'Datenmodellierung',
-        'Datenmanagement', 'Data Warehouse', 'Data Lakehouse', 'Data Lakes', 'Datenqualitätsanalyse', 'Datenentdeckung',
-        'OLAP-Würfel', 'Datenvorbereitung', 'Datenintegration', 'Datenanalyse', 'SQL', 'T-SQL',
-        'SSIS', 'Apache Hadoop', 'Apache Kafka', 'Apache NiFi', 'Apache Flink', 'Python',
-        'C#', 'PowerShell', 'Microsoft SQL Server', 'Microsoft Azure', 'Microsoft Power Platform',
-        'Microsoft Fabric', 'Java', 'Linux', 'Virtualisierung', 'Backup-Lösungen', 'Speicherlösungen',
-        'Kommunikationsfähigkeit', 'Teamarbeit', 'Problemlösungsfähigkeiten', 'Kundenorientierung',
-        'Strukturierte Arbeitsweise', 'Kreativität', 'Flexibilität', 'Selbstständigkeit',
-        'Respekt und Empathie', 'Deutsch', 'Englisch', 'German', 'English', 'Technische Ausbildung', 'Berufserfahrung im Data Engineering',
-        'Projekterfahrung', 'Verständnis von Bankgeschäftsmodellen', 'projektmanagement', 'erp', 'datenmodellen', 'computer science',
-        'data processing'
+        'JavaScript', 'C++', 'Data Modeling', 'AWS', 'DevOps', 'Data Science', 'Big Data', 'Databricks',
+        'Machine Learning', 'APIs', 'Spark', 'Hadoop', 'CI/CD', 'Power BI', 'Data Engineering', 'ETL',
+        'Data Pipelines', 'Datenmodellierung', 'Datenmanagement', 'Data Warehouse', 'Data Lakehouse',
+        'Data Lakes', 'Datenqualitätsanalyse', 'Datenentdeckung', 'OLAP-Würfel', 'Datenvorbereitung',
+        'Datenintegration', 'Datenanalyse', 'SQL', 'T-SQL', 'SSIS', 'Apache Hadoop', 'Apache Kafka',
+        'Apache NiFi', 'Apache Flink', 'Python', 'C#', 'PowerShell', 'Microsoft SQL Server', 'Microsoft Azure',
+        'Microsoft Power Platform', 'Microsoft Fabric', 'Java', 'Linux', 'Virtualisierung', 'Backup-Lösungen',
+        'Speicherlösungen', 'Kommunikationsfähigkeit', 'Teamarbeit', 'Problemlösungsfähigkeiten',
+        'Kundenorientierung', 'Strukturierte Arbeitsweise', 'Kreativität', 'Flexibilität', 'Selbstständigkeit',
+        'Respekt und Empathie', 'Deutsch', 'Englisch', 'German', 'English', 'Technische Ausbildung',
+        'Berufserfahrung im Data Engineering', 'Projekterfahrung', 'Verständnis von Bankgeschäftsmodellen',
+        'projektmanagement', 'erp', 'datenmodellen', 'computer science', 'data processing'
     ]
 
     # Extract the skills by checking if keywords are in the description
@@ -234,6 +234,7 @@ def create_table_if_not_exists(cursor):
     """
 
     cursor.execute(create_table_query)
+
 
 # Function to connect to MySQL and insert data
 def insert_into_mysql(jobs):
